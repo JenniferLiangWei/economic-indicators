@@ -68,7 +68,7 @@ INDICATORS = [
     {"backend":"dbnomics","freq":"monthly","name":"Construction confidence indicator",
      "provider":"Eurostat","dataset":"ei_bsco_m","mask":"","explorer":"https://db.nomics.world/Eurostat/ei_bsco_m"},
     {"backend":"dbnomics","freq":"quarterly","name":"Residential property prices",
-     "provider":"BIS","dataset":"selected_pp","mask":"","explorer":"https://db.nomics.world/BIS/selected_pp"},
+     "provider":"OECD","dataset":"DSD_RHPI@DF_RHPI_ALL","mask":"","explorer":"https://db.nomics.world/OECD/DSD_RHPI@DF_RHPI_ALL"},
     {"backend":"dbnomics","freq":"monthly","name":"OECD Composite Leading Indicator (CLI)",
      "provider":"OECD","dataset":"DSD_STES@DF_CLI","mask":"","explorer":"https://db.nomics.world/OECD"},
     {"backend":"dbnomics","freq":"monthly","name":"Economic Sentiment Indicator (ESI)",
