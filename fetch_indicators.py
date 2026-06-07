@@ -68,13 +68,14 @@ INDICATORS = [
     {"backend":"dbnomics","freq":"monthly","name":"Construction confidence indicator",
      "provider":"Eurostat","dataset":"ei_bsco_m","mask":"","explorer":"https://db.nomics.world/Eurostat/ei_bsco_m"},
     {"backend":"dbnomics","freq":"quarterly","name":"Residential property prices",
-     "provider":"BIS","dataset":"PP","mask":"","explorer":"https://db.nomics.world/BIS/PP"},
+     "provider":"BIS","dataset":"selected_pp","mask":"","explorer":"https://db.nomics.world/BIS/selected_pp"},
     {"backend":"dbnomics","freq":"monthly","name":"OECD Composite Leading Indicator (CLI)",
      "provider":"OECD","dataset":"DSD_STES@DF_CLI","mask":"","explorer":"https://db.nomics.world/OECD"},
     {"backend":"dbnomics","freq":"monthly","name":"Economic Sentiment Indicator (ESI)",
      "provider":"Eurostat","dataset":"ei_bssi_m_r2","mask":"","explorer":"https://db.nomics.world/Eurostat/ei_bssi_m_r2"},
     {"backend":"dbnomics","freq":"monthly","name":"ISM Manufacturing PMI (US)",
-     "provider":"ISM","dataset":"pmi","mask":"","explorer":"https://db.nomics.world/ISM/pmi"},
+     "provider":"ISM","dataset":"pmi","mask":"pm","force_country":("US","United States"),
+     "explorer":"https://db.nomics.world/ISM/pmi"},
     {"backend":"dbnomics","freq":"monthly","name":"ECB main refinancing rate",
      "provider":"ECB","dataset":"FM","mask":"","explorer":"https://db.nomics.world/ECB/FM"},
 ]
@@ -103,19 +104,21 @@ def fetch_worldbank(ind):
     while page <= pages:
         url = (f"https://api.worldbank.org/v2/country/{codes}/indicator/{code}"
                f"?date={START_YEAR}:2026&format=json&per_page=20000&page={page}")
-        try:
-            r = session.get(url, timeout=30)
-            if r.status_code != 200: break
-            j = r.json()
-            if not (len(j) > 1 and isinstance(j[1], list)): break
-            pages = j[0].get("pages", 1)
-            for e in j[1]:
-                if e.get("value") is not None:
-                    annual_rows.append({"Country Code":e["country"]["id"],"Country Name":e["country"]["value"],
-                        "Indicator Code":code,"Indicator Name":name,"Year":e["date"],"Value":e["value"]})
-                    got += 1
-        except requests.exceptions.RequestException as ex:
-            log(f"  WB error {code}: {ex}"); break
+        r = None
+        for attempt in range(3):                 # retry transient timeouts
+            try:
+                r = session.get(url, timeout=30); break
+            except requests.exceptions.RequestException as ex:
+                log(f"  WB retry {attempt+1} {code}: {ex}"); time.sleep(3)
+        if r is None or r.status_code != 200: break
+        j = r.json()
+        if not (len(j) > 1 and isinstance(j[1], list)): break
+        pages = j[0].get("pages", 1)
+        for e in j[1]:
+            if e.get("value") is not None:
+                annual_rows.append({"Country Code":e["country"]["id"],"Country Name":e["country"]["value"],
+                    "Indicator Code":code,"Indicator Name":name,"Year":e["date"],"Value":e["value"]})
+                got += 1
         page += 1
     log(f"[WorldBank] {name}: {got} rows")
 
@@ -147,6 +150,7 @@ def fetch_dbnomics(ind):
     base = f"https://api.db.nomics.world/v22/series/{prov}/{ds}"
     if mask: base += "/" + quote(mask, safe="+.")
     captured, got = set(), 0
+    fc = ind.get("force_country")
     MAX_PAGES, limit = 12, 100
     deadline = time.time() + 90      # hard 90s budget per indicator
     page, offset, total = 0, 0, None
@@ -161,9 +165,12 @@ def fetch_dbnomics(ind):
         if not docs: break
         if total is None: total = payload.get("series", {}).get("num_found", 0)
         for doc in docs:
-            cc, cn = _country_from_doc(doc)
-            if not cc or cc.upper() not in TARGET_CODES: continue
-            key = cc.upper()
+            if fc:
+                cc, cn = fc
+            else:
+                cc, cn = _country_from_doc(doc)
+                if not cc or cc.upper() not in TARGET_CODES: continue
+            key = (cc or "").upper()
             if key in captured: continue        # keep ONE series per country
             captured.add(key)
             icode = doc.get("series_code", f"{prov}.{ds}")
