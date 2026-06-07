@@ -1,4 +1,4 @@
-Run started 2026-06-07T22:47:52.688921Z
+Run started 2026-06-07T22:58:00.192759Z
 [WorldBank] GDP growth (annual %): 640 rows
 [WorldBank] Inflation, consumer prices (annual %): 550 rows
 [WorldBank] Real interest rate (%): 287 rows
@@ -14,7 +14,7 @@ Run started 2026-06-07T22:47:52.688921Z
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1153 rows, 11 countries
 [DBnomics] Construction production index (Eurostat/sts_copr_m): 1750 rows, 18 countries
 [DBnomics] Construction confidence indicator (Eurostat/ei_bsco_m): 2902 rows, 22 countries
-[DBnomics] Residential property prices (OECD/DSD_RHPI@DF_RHPI_ALL): 0 rows, 0 countries  <-- 0 rows, CHECK CODES: https://db.nomics.world/OECD/DSD_RHPI@DF_RHPI_ALL
+[DBnomics] Residential property prices (OECD/DSD_RHPI@DF_RHPI_ALL) HTTP 404 -> https://db.nomics.world/OECD/DSD_RHPI@DF_RHPI_ALL
 [DBnomics] OECD Composite Leading Indicator (CLI) (OECD/DSD_STES@DF_CLI): 4150 rows, 31 countries
 [DBnomics] Economic Sentiment Indicator (ESI) (Eurostat/ei_bssi_m_r2): 2903 rows, 22 countries
 [DBnomics] ISM Manufacturing PMI (US) (ISM/pmi): 68 rows, 1 countries
