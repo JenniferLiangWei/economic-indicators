@@ -108,8 +108,8 @@ INDICATORS = [
      "provider":"ISM","dataset":"pmi","mask":"pm","force_country":("USA","United States"),
      "explorer":"https://db.nomics.world/ISM/pmi"},
     {"backend":"dbnomics","freq":"monthly","name":"ECB main refinancing rate",
-     "provider":"ECB","dataset":"FM","mask":"M.U2.EUR.4F.KR.MRR_FR.LEV","force_country":("U2","Euro area"),
-     "explorer":"https://db.nomics.world/ECB/FM"},
+     "provider":"ECB","dataset":"FM","mask":"B.U2.EUR.4F.KR.MRR_FR.LEV","force_country":("U2","Euro area"),
+     "monthly_collapse":True,"explorer":"https://db.nomics.world/ECB/FM"},
 
     # --- IMF World Economic Outlook (ANNUAL, includes 2025 & 2026 forecasts) ---
     {"backend":"dbnomics","freq":"annual","name":"Real GDP growth (IMF WEO)",
@@ -295,10 +295,17 @@ def fetch_dbnomics(ind):
         offset += limit; page += 1
         if total is not None and offset >= total: break
     # emit the chosen series
+    collapse = ind.get("monthly_collapse")
     got, latest = 0, ""
     for b in best.values():
         if b["last"] > latest: latest = b["last"]
-        for (y, m, val) in b["obs"]:
+        obs = b["obs"]
+        if collapse and freq != "annual":
+            md = {}
+            for (y, m, val) in obs:      # obs are chronological -> last day wins
+                md[(y, m)] = val
+            obs = [(y, m, v) for (y, m), v in md.items()]
+        for (y, m, val) in obs:
             got += 1
             if freq == "annual":
                 annual_rows.append({"Country Code":b["cc"],"Country Name":b["cn"],
