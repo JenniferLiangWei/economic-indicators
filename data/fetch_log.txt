@@ -1,4 +1,4 @@
-Run started 2026-06-08T21:48:51.105200Z
+Run started 2026-06-08T22:05:38.595025Z
 [WorldBank] GDP growth (annual %): 640 rows
 [WorldBank] Inflation, consumer prices (annual %): 550 rows
 [WorldBank] Real interest rate (%): 287 rows
@@ -11,19 +11,19 @@ Run started 2026-06-08T21:48:51.105200Z
 [WorldBank] Gross capital formation (% of GDP): 636 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 593 rows
 [WorldBank] Logistics Performance Index, overall: 185 rows
-[DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1153 rows, 11 countries
-[DBnomics] Construction production index (Eurostat/sts_copr_m): 1750 rows, 18 countries
-[DBnomics] Construction confidence indicator (Eurostat/ei_bsco_m): 2902 rows, 22 countries
-[DBnomics] House price index (Eurostat/prc_hpi_q): 919 rows, 22 countries
-[DBnomics] OECD Composite Leading Indicator (CLI) (OECD/DSD_STES@DF_CLI): 4150 rows, 31 countries
-[DBnomics] Economic Sentiment Indicator (ESI) (Eurostat/ei_bssi_m_r2): 2903 rows, 22 countries
-[DBnomics] ISM Manufacturing PMI (US) (ISM/pmi): 68 rows, 1 countries
-[DBnomics] ECB main refinancing rate (ECB/FM): 246 rows, 3 countries
-[DBnomics] Real GDP growth (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
-[DBnomics] Inflation, avg consumer prices (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
-[DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
-[DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
-[DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
+[DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
+[DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
+[DBnomics] Construction confidence indicator (Eurostat/ei_bsco_m): 2903 rows, 22 countries, latest 2025M12
+[DBnomics] House price index (Eurostat/prc_hpi_q): 923 rows, 22 countries, latest 2025M09
+[DBnomics] OECD Composite Leading Indicator (CLI) (OECD/DSD_STES@DF_CLI): 4178 rows, 31 countries, latest 2026M04
+[DBnomics] Economic Sentiment Indicator (ESI) (Eurostat/ei_bssi_m_r2): 2903 rows, 22 countries, latest 2025M12
+[DBnomics] ISM Manufacturing PMI (US) (ISM/pmi): 68 rows, 1 countries, latest 2025M12
+[DBnomics] ECB main refinancing rate (ECB/FM) HTTP 404 -> https://db.nomics.world/ECB/FM
+[DBnomics] Real GDP growth (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Inflation, avg consumer prices (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [WorldBank GEM] CPI inflation, % YoY: 6717 rows
 [WorldBank GEM] Industrial Production Index: 6116 rows
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
@@ -32,4 +32,4 @@ Run started 2026-06-08T21:48:51.105200Z
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=10774 rows  periodic=59195 rows
+DONE  annual=10774 rows  periodic=59806 rows
