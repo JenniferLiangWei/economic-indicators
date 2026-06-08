@@ -1,4 +1,4 @@
-Run started 2026-06-08T10:02:13.120457Z
+Run started 2026-06-08T20:49:07.891625Z
 [WorldBank] GDP growth (annual %): 640 rows
 [WorldBank] Inflation, consumer prices (annual %): 550 rows
 [WorldBank] Real interest rate (%): 287 rows
@@ -19,4 +19,9 @@ Run started 2026-06-08T10:02:13.120457Z
 [DBnomics] Economic Sentiment Indicator (ESI) (Eurostat/ei_bssi_m_r2): 2903 rows, 22 countries
 [DBnomics] ISM Manufacturing PMI (US) (ISM/pmi): 68 rows, 1 countries
 [DBnomics] ECB main refinancing rate (ECB/FM): 246 rows, 3 countries
-DONE  annual=6294 rows  periodic=14091 rows
+[DBnomics] Real GDP growth (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
+[DBnomics] Inflation, avg consumer prices (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
+[DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
+[DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
+[DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
+DONE  annual=10774 rows  periodic=14091 rows
