@@ -109,7 +109,7 @@ INDICATORS = [
      "explorer":"https://db.nomics.world/ISM/pmi"},
     {"backend":"dbnomics","freq":"monthly","name":"ECB main refinancing rate",
      "provider":"ECB","dataset":"FM","mask":"B.U2.EUR.4F.KR.MRR_FR.LEV","force_country":("U2","Euro area"),
-     "monthly_collapse":True,"explorer":"https://db.nomics.world/ECB/FM"},
+     "forward_fill":True,"explorer":"https://db.nomics.world/ECB/FM"},
 
     # --- IMF World Economic Outlook (ANNUAL, includes 2025 & 2026 forecasts) ---
     {"backend":"dbnomics","freq":"annual","name":"Real GDP growth (IMF WEO)",
@@ -295,18 +295,30 @@ def fetch_dbnomics(ind):
         offset += limit; page += 1
         if total is not None and offset >= total: break
     # emit the chosen series
-    collapse = ind.get("monthly_collapse")
+    collapse = ind.get("monthly_collapse") or ind.get("forward_fill")
+    ffill = ind.get("forward_fill")
     got, latest = 0, ""
     for b in best.values():
-        if b["last"] > latest: latest = b["last"]
         obs = b["obs"]
         if collapse and freq != "annual":
             md = {}
             for (y, m, val) in obs:      # obs are chronological -> last day wins
                 md[(y, m)] = val
+            if ffill and md:
+                now = datetime.utcnow()
+                yy, mm = sorted(md)[0]
+                cur, out = None, {}
+                while (yy, mm) <= (now.year, now.month):
+                    if (yy, mm) in md: cur = md[(yy, mm)]
+                    if cur is not None: out[(yy, mm)] = cur
+                    mm += 1
+                    if mm > 12: mm = 1; yy += 1
+                md = out
             obs = [(y, m, v) for (y, m), v in md.items()]
         for (y, m, val) in obs:
             got += 1
+            pk = f"{y:04d}{m:02d}"
+            if pk > latest: latest = pk
             if freq == "annual":
                 annual_rows.append({"Country Code":b["cc"],"Country Name":b["cn"],
                     "Indicator Code":b["icode"],"Indicator Name":name,"Year":str(y),"Value":val})
