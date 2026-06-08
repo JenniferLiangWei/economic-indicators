@@ -108,7 +108,8 @@ INDICATORS = [
      "provider":"ISM","dataset":"pmi","mask":"pm","force_country":("USA","United States"),
      "explorer":"https://db.nomics.world/ISM/pmi"},
     {"backend":"dbnomics","freq":"monthly","name":"ECB main refinancing rate",
-     "provider":"ECB","dataset":"FM","mask":"","explorer":"https://db.nomics.world/ECB/FM"},
+     "provider":"ECB","dataset":"FM","mask":"M.U2.EUR.4F.KR.MRR_FR.LEV","force_country":("U2","Euro area"),
+     "explorer":"https://db.nomics.world/ECB/FM"},
 
     # --- IMF World Economic Outlook (ANNUAL, includes 2025 & 2026 forecasts) ---
     {"backend":"dbnomics","freq":"annual","name":"Real GDP growth (IMF WEO)",
@@ -253,9 +254,9 @@ def fetch_dbnomics(ind):
     name, freq = ind["name"], ind["freq"]
     base = f"https://api.db.nomics.world/v22/series/{prov}/{ds}"
     if mask: base += "/" + quote(mask, safe="+.")
-    captured, got = set(), 0
     fc = ind.get("force_country")
-    MAX_PAGES, limit = 12, 100
+    best = {}          # country -> {"last":"YYYYMM","cn":,"icode":,"obs":[(y,m,val)]}
+    MAX_PAGES, limit = 25, 100
     deadline = time.time() + 90      # hard 90s budget per indicator
     page, offset, total = 0, 0, None
     while page < MAX_PAGES and time.time() < deadline:
@@ -275,25 +276,38 @@ def fetch_dbnomics(ind):
                 raw_cc, _ = _country_from_doc(doc)
                 canon = canon_country(raw_cc)
                 if not canon: continue
-                cc, cn = canon                    # normalized code + standard name
-            key = (cc or "").upper()
-            if key in captured: continue        # keep ONE series per country
-            captured.add(key)
-            icode = doc.get("series_code", f"{prov}.{ds}")
+                cc, cn = canon
+            obs, last = [], ""
             for per, val in zip(doc.get("period", []), doc.get("value", [])):
                 if val is None or per is None: continue
                 y, m = _parse_period(per, freq)
                 if y is None or y < START_YEAR: continue
-                got += 1
-                if freq == "annual":
-                    annual_rows.append({"Country Code":cc,"Country Name":cn,"Indicator Code":icode,
-                        "Indicator Name":name,"Year":str(y),"Value":val})
-                else:
-                    add_periodic(cc, cn, icode, name, y, m, val)
+                obs.append((y, m, val))
+                pk = f"{y:04d}{m:02d}"
+                if pk > last: last = pk
+            if not obs: continue
+            key = (cc or "").upper()
+            cur = best.get(key)
+            # keep the series that runs FURTHEST (tie: the one with more points)
+            if cur is None or last > cur["last"] or (last == cur["last"] and len(obs) > len(cur["obs"])):
+                best[key] = {"last":last, "cc":cc, "cn":cn,
+                             "icode":doc.get("series_code", f"{prov}.{ds}"), "obs":obs}
         offset += limit; page += 1
         if total is not None and offset >= total: break
+    # emit the chosen series
+    got, latest = 0, ""
+    for b in best.values():
+        if b["last"] > latest: latest = b["last"]
+        for (y, m, val) in b["obs"]:
+            got += 1
+            if freq == "annual":
+                annual_rows.append({"Country Code":b["cc"],"Country Name":b["cn"],
+                    "Indicator Code":b["icode"],"Indicator Name":name,"Year":str(y),"Value":val})
+            else:
+                add_periodic(b["cc"], b["cn"], b["icode"], name, y, m, val)
+    last_lbl = f"{latest[:4]}M{latest[4:]}" if latest else "-"
     flag = "" if got else f"  <-- 0 rows, CHECK CODES: {ind.get('explorer','')}"
-    log(f"[DBnomics] {name} ({prov}/{ds}): {got} rows, {len(captured)} countries{flag}")
+    log(f"[DBnomics] {name} ({prov}/{ds}): {got} rows, {len(best)} countries, latest {last_lbl}{flag}")
 
 # --------------------------------- run ---------------------------------------
 log(f"Run started {datetime.utcnow().isoformat()}Z")
