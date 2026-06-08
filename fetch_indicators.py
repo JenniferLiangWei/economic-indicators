@@ -78,6 +78,18 @@ INDICATORS = [
      "explorer":"https://db.nomics.world/ISM/pmi"},
     {"backend":"dbnomics","freq":"monthly","name":"ECB main refinancing rate",
      "provider":"ECB","dataset":"FM","mask":"","explorer":"https://db.nomics.world/ECB/FM"},
+
+    # --- IMF World Economic Outlook (ANNUAL, includes 2025 & 2026 forecasts) ---
+    {"backend":"dbnomics","freq":"annual","name":"Real GDP growth (IMF WEO)",
+     "provider":"IMF","dataset":"WEO:latest","mask":".NGDP_RPCH","explorer":"https://db.nomics.world/IMF/WEO:latest"},
+    {"backend":"dbnomics","freq":"annual","name":"Inflation, avg consumer prices (IMF WEO)",
+     "provider":"IMF","dataset":"WEO:latest","mask":".PCPIPCH","explorer":"https://db.nomics.world/IMF/WEO:latest"},
+    {"backend":"dbnomics","freq":"annual","name":"Government gross debt (% of GDP, IMF WEO)",
+     "provider":"IMF","dataset":"WEO:latest","mask":".GGXWDG_NGDP","explorer":"https://db.nomics.world/IMF/WEO:latest"},
+    {"backend":"dbnomics","freq":"annual","name":"Current account balance (% of GDP, IMF WEO)",
+     "provider":"IMF","dataset":"WEO:latest","mask":".BCA_NGDPD","explorer":"https://db.nomics.world/IMF/WEO:latest"},
+    {"backend":"dbnomics","freq":"annual","name":"Unemployment rate (IMF WEO)",
+     "provider":"IMF","dataset":"WEO:latest","mask":".LUR","explorer":"https://db.nomics.world/IMF/WEO:latest"},
 ]
 # =============================================================================
 
@@ -126,11 +138,23 @@ def fetch_worldbank(ind):
 def _country_from_doc(doc):
     dims = doc.get("dimensions", {}) or {}
     dvl  = doc.get("dimensions_values_labels", {}) or {}
+    # 1) known geography dimension keys (existing behaviour)
     for k in ("geo","REF_AREA","LOCATION","Country","COUNTRY","country","area","AREA"):
-        if k in dims:
+        if k in dims and dims[k]:
             v = dims[k]
             lab = dvl.get(k, {}).get(v) if isinstance(dvl.get(k), dict) else None
             return v, (lab or v)
+    # 2) any dimension whose value is a known country code (covers IMF WEO etc.)
+    for k, v in dims.items():
+        if isinstance(v, str) and v.upper() in TARGET_CODES:
+            lab = dvl.get(k, {}).get(v) if isinstance(dvl.get(k), dict) else None
+            return v, (lab or v)
+    # 3) fallback: country code as the prefix of the series code (WEO: "DEU.NGDP_RPCH")
+    sc = doc.get("series_code", "")
+    if sc:
+        p = sc.split(".")[0]
+        if p.upper() in TARGET_CODES:
+            return p, p
     return None, None
 
 def _parse_period(per, freq):
