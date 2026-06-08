@@ -44,6 +44,36 @@ ISO3_TO_ISO2 = {
 }
 TARGET_CODES = set(COUNTRIES_ISO3) | set(ISO3_TO_ISO2.values())
 
+# Canonical full name for every ISO3 (the single name used across ALL sources)
+CANON_NAME = {
+    "DEU":"Germany","CYP":"Cyprus","BGR":"Bulgaria","ROU":"Romania","SRB":"Serbia",
+    "MKD":"North Macedonia","MNE":"Montenegro","HUN":"Hungary","ISR":"Israel",
+    "CZE":"Czechia","POL":"Poland","LVA":"Latvia","LTU":"Lithuania","EST":"Estonia",
+    "FIN":"Finland","SWE":"Sweden","NOR":"Norway","DNK":"Denmark","ISL":"Iceland",
+    "BEL":"Belgium","FRA":"France","GBR":"United Kingdom","IRL":"Ireland",
+    "NLD":"Netherlands","ITA":"Italy","USA":"United States","CAN":"Canada",
+    "MEX":"Mexico","AUS":"Australia","MYS":"Malaysia","SGP":"Singapore",
+    "THA":"Thailand","VNM":"Vietnam","IDN":"Indonesia","PHL":"Philippines",
+    "IND":"India","TUR":"Türkiye","ARE":"United Arab Emirates","SAU":"Saudi Arabia",
+    "OMN":"Oman","QAT":"Qatar","KWT":"Kuwait","BHR":"Bahrain","KAZ":"Kazakhstan",
+    "KEN":"Kenya","UGA":"Uganda","MAR":"Morocco","EGY":"Egypt","ZAF":"South Africa",
+    "TUN":"Tunisia","CHN":"China","HKG":"Hong Kong","TWN":"Taiwan","MAC":"Macao",
+    "RUS":"Russia","NZL":"New Zealand",
+}
+ISO2_TO_ISO3 = {v: k for k, v in ISO3_TO_ISO2.items()}
+
+def canon_country(code):
+    """Map any ISO2 or ISO3 code to (canonical ISO3, canonical name).
+    Returns None for non-target codes (e.g. regions like WLD, EMU, U2)."""
+    if not code:
+        return None
+    c = str(code).upper()
+    iso3 = c if c in CANON_NAME else ISO2_TO_ISO3.get(c)
+    if iso3 and iso3 in CANON_NAME:
+        return iso3, CANON_NAME[iso3]
+    return None
+
+
 # ============================ INDICATOR CATALOG ==============================
 INDICATORS = [
     # --- World Bank (annual, keyless, rock solid) ---
@@ -74,7 +104,7 @@ INDICATORS = [
     {"backend":"dbnomics","freq":"monthly","name":"Economic Sentiment Indicator (ESI)",
      "provider":"Eurostat","dataset":"ei_bssi_m_r2","mask":"","explorer":"https://db.nomics.world/Eurostat/ei_bssi_m_r2"},
     {"backend":"dbnomics","freq":"monthly","name":"ISM Manufacturing PMI (US)",
-     "provider":"ISM","dataset":"pmi","mask":"pm","force_country":("US","United States"),
+     "provider":"ISM","dataset":"pmi","mask":"pm","force_country":("USA","United States"),
      "explorer":"https://db.nomics.world/ISM/pmi"},
     {"backend":"dbnomics","freq":"monthly","name":"ECB main refinancing rate",
      "provider":"ECB","dataset":"FM","mask":"","explorer":"https://db.nomics.world/ECB/FM"},
@@ -128,7 +158,12 @@ def fetch_worldbank(ind):
         pages = j[0].get("pages", 1)
         for e in j[1]:
             if e.get("value") is not None:
-                annual_rows.append({"Country Code":e["country"]["id"],"Country Name":e["country"]["value"],
+                canon = canon_country(e["country"]["id"])
+                if canon:
+                    cc, cn = canon                       # normalized country
+                else:
+                    cc, cn = e["country"]["id"], e["country"]["value"]   # region (World, Euro area...)
+                annual_rows.append({"Country Code":cc,"Country Name":cn,
                     "Indicator Code":code,"Indicator Name":name,"Year":e["date"],"Value":e["value"]})
                 got += 1
         page += 1
@@ -192,8 +227,10 @@ def fetch_dbnomics(ind):
             if fc:
                 cc, cn = fc
             else:
-                cc, cn = _country_from_doc(doc)
-                if not cc or cc.upper() not in TARGET_CODES: continue
+                raw_cc, _ = _country_from_doc(doc)
+                canon = canon_country(raw_cc)
+                if not canon: continue
+                cc, cn = canon                    # normalized code + standard name
             key = (cc or "").upper()
             if key in captured: continue        # keep ONE series per country
             captured.add(key)
