@@ -1,4 +1,4 @@
-Run started 2026-06-08T21:18:19.588822Z
+Run started 2026-06-08T21:48:51.105200Z
 [WorldBank] GDP growth (annual %): 640 rows
 [WorldBank] Inflation, consumer prices (annual %): 550 rows
 [WorldBank] Real interest rate (%): 287 rows
@@ -24,4 +24,12 @@ Run started 2026-06-08T21:18:19.588822Z
 [DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
 [DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
 [DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries
-DONE  annual=10774 rows  periodic=14091 rows
+[WorldBank GEM] CPI inflation, % YoY: 6717 rows
+[WorldBank GEM] Industrial Production Index: 6116 rows
+[WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
+[WorldBank GEM] Merchandise Imports (USD, NSA): 7001 rows
+[WorldBank GEM] Retail Sales Volume Index (SA): 2923 rows
+[WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
+[WorldBank GEM] Terms of Trade Index: 3804 rows
+[WorldBank GEM] Total International Reserves (USD millions): 6676 rows
+DONE  annual=10774 rows  periodic=59195 rows
