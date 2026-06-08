@@ -31,6 +31,7 @@ COUNTRIES_ISO3 = [
     "ZAF","TUN","CHN","HKG","TWN","MAC","RUS","NZL",
 ]
 WB_REGIONS = ["WLD","CEB","EMU","EAS","ECA","SSF","MNA","LCN","SAS"]
+WB_GEM_REGIONS = ["WLD","EMU","EAP","ECA","LAC","MNA","SSA"]
 
 ISO3_TO_ISO2 = {
     "DEU":"DE","CYP":"CY","BGR":"BG","ROU":"RO","SRB":"RS","MKD":"MK","MNE":"ME",
@@ -120,6 +121,16 @@ INDICATORS = [
      "provider":"IMF","dataset":"WEO:latest","mask":".BCA_NGDPD","explorer":"https://db.nomics.world/IMF/WEO:latest"},
     {"backend":"dbnomics","freq":"annual","name":"Unemployment rate (IMF WEO)",
      "provider":"IMF","dataset":"WEO:latest","mask":".LUR","explorer":"https://db.nomics.world/IMF/WEO:latest"},
+
+    # --- World Bank GEM (MONTHLY, your original set, source=15) ---
+    {"backend":"worldbank_gem","freq":"monthly","name":"CPI inflation, % YoY","wb_code":"CPTOTSAXNZGY"},
+    {"backend":"worldbank_gem","freq":"monthly","name":"Industrial Production Index","wb_code":"IPTOTNSKD"},
+    {"backend":"worldbank_gem","freq":"monthly","name":"Merchandise Exports (USD, NSA)","wb_code":"DXGSRMRCHNSCD"},
+    {"backend":"worldbank_gem","freq":"monthly","name":"Merchandise Imports (USD, NSA)","wb_code":"DMGSRMRCHNSCD"},
+    {"backend":"worldbank_gem","freq":"monthly","name":"Retail Sales Volume Index (SA)","wb_code":"RETSALESSA"},
+    {"backend":"worldbank_gem","freq":"monthly","name":"Real Effective Exchange Rate Index","wb_code":"REER"},
+    {"backend":"worldbank_gem","freq":"monthly","name":"Terms of Trade Index","wb_code":"TOT"},
+    {"backend":"worldbank_gem","freq":"monthly","name":"Total International Reserves (USD millions)","wb_code":"TOTRESV"},
 ]
 # =============================================================================
 
@@ -168,6 +179,40 @@ def fetch_worldbank(ind):
                 got += 1
         page += 1
     log(f"[WorldBank] {name}: {got} rows")
+
+# ------------------------- World Bank GEM (monthly) --------------------------
+def fetch_worldbank_gem(ind):
+    code, name = ind["wb_code"], ind["name"]
+    codes = ";".join(COUNTRIES_ISO3 + WB_GEM_REGIONS)
+    got, page, pages = 0, 1, 1
+    while page <= pages:
+        url = (f"https://api.worldbank.org/v2/country/{codes}/indicator/{code}"
+               f"?date={START_YEAR}M01:2026M12&source=15&format=json&per_page=20000&page={page}")
+        r = None
+        for attempt in range(3):
+            try:
+                r = session.get(url, timeout=30); break
+            except requests.exceptions.RequestException as ex:
+                log(f"  GEM retry {attempt+1} {code}: {ex}"); time.sleep(3)
+        if r is None or r.status_code != 200: break
+        j = r.json()
+        if not (len(j) > 1 and isinstance(j[1], list)): break
+        pages = j[0].get("pages", 1)
+        for e in j[1]:
+            if e.get("value") is None: continue
+            raw = e["date"]
+            if "M" not in raw: continue
+            y = int(raw[:4]); m = int(raw.split("M")[1])
+            if y < START_YEAR: continue
+            canon = canon_country(e["country"]["id"])
+            if canon:
+                cc, cn = canon
+            else:
+                cc, cn = e["country"]["id"], e["country"]["value"]   # region passthrough
+            add_periodic(cc, cn, code, name, y, m, e["value"])
+            got += 1
+        page += 1
+    log(f"[WorldBank GEM] {name}: {got} rows")
 
 # ---------------------------- DBnomics (capped) ------------------------------
 def _country_from_doc(doc):
@@ -253,7 +298,10 @@ def fetch_dbnomics(ind):
 # --------------------------------- run ---------------------------------------
 log(f"Run started {datetime.utcnow().isoformat()}Z")
 for ind in INDICATORS:
-    (fetch_worldbank if ind["backend"]=="worldbank" else fetch_dbnomics)(ind)
+    b = ind["backend"]
+    if b == "worldbank":       fetch_worldbank(ind)
+    elif b == "worldbank_gem": fetch_worldbank_gem(ind)
+    else:                      fetch_dbnomics(ind)
 
 with open(os.path.join(OUT_DIR,"leading_annual.csv"),"w",newline="",encoding="utf-8") as f:
     w=csv.DictWriter(f,fieldnames=ANNUAL_FIELDS); w.writeheader(); w.writerows(annual_rows)
