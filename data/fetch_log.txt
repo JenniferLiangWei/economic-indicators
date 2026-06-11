@@ -1,16 +1,19 @@
-Run started 2026-06-10T09:04:42.022110Z
+Run started 2026-06-11T09:50:06.362033Z
 [WorldBank] GDP growth (annual %): 640 rows
 [WorldBank] Inflation, consumer prices (annual %): 550 rows
+  WB retry 1 FR.INR.RINR: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  WB retry 2 FR.INR.RINR: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Real interest rate (%): 287 rows
+  WB retry 1 FR.INR.LEND: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Lending interest rate (%): 287 rows
 [WorldBank] Inflation, GDP deflator (annual %): 640 rows
 [WorldBank] Exports of goods and services (% of GDP): 636 rows
 [WorldBank] Urban population (% of total): 640 rows
 [WorldBank] Manufacturing, value added (annual % growth): 579 rows
 [WorldBank] Manufacturing, value added (% of GDP): 621 rows
-[WorldBank] Gross capital formation (% of GDP): 636 rows
+[WorldBank] Gross capital formation (% of GDP): 0 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 593 rows
-[WorldBank] Logistics Performance Index, overall: 0 rows
+[WorldBank] Logistics Performance Index, overall: 185 rows
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
 [DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
 [DBnomics] Construction confidence indicator (Eurostat/ei_bsco_m): 2903 rows, 22 countries, latest 2025M12
@@ -29,7 +32,7 @@ Run started 2026-06-10T09:04:42.022110Z
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
 [WorldBank GEM] Merchandise Imports (USD, NSA): 7001 rows
 [WorldBank GEM] Retail Sales Volume Index (SA): 2923 rows
-[WorldBank GEM] Real Effective Exchange Rate Index: 0 rows
+[WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=10589 rows  periodic=55178 rows
+DONE  annual=10138 rows  periodic=59958 rows
