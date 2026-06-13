@@ -249,6 +249,49 @@ def _parse_period(per, freq):
     except Exception:
         return None, None
 
+def _pairs_from_observations(raw):
+    pairs = []
+    if isinstance(raw, dict):
+        for per, val in raw.items():
+            pairs.append((per, val))
+        return pairs
+    if isinstance(raw, list):
+        for it in raw:
+            if isinstance(it, (list, tuple)) and len(it) >= 2:
+                pairs.append((it[0], it[1]))
+                continue
+            if isinstance(it, dict):
+                per = (it.get("period") or it.get("date") or it.get("time_period")
+                       or it.get("time") or it.get("period_code"))
+                val = it.get("value")
+                if val is None:
+                    for vk in ("obs_value", "obs", "v"):
+                        if vk in it and it.get(vk) is not None:
+                            val = it.get(vk); break
+                if per is not None:
+                    pairs.append((per, val))
+    return pairs
+
+def _doc_observations(doc, series_payload):
+    # Old schema: parallel arrays on each doc
+    period = doc.get("period", [])
+    value = doc.get("value", [])
+    if isinstance(period, list) and isinstance(value, list) and period and value:
+        return list(zip(period, value))
+    # New schema (doc-level): observations can be dict/list of points
+    pairs = _pairs_from_observations(doc.get("observations"))
+    if pairs:
+        return pairs
+    # Fallback schema (series-level): observations may be keyed by series_code
+    obs_map = series_payload.get("observations") if isinstance(series_payload, dict) else None
+    if isinstance(obs_map, dict):
+        sc = doc.get("series_code")
+        if sc in obs_map:
+            pairs = _pairs_from_observations(obs_map.get(sc))
+            if pairs:
+                return pairs
+    return []
+
 def fetch_dbnomics(ind):
     prov, ds, mask = ind["provider"], ind["dataset"], ind.get("mask","")
     name, freq = ind["name"], ind["freq"]
@@ -260,15 +303,24 @@ def fetch_dbnomics(ind):
     deadline = time.time() + 90      # hard 90s budget per indicator
     page, offset, total = 0, 0, None
     while page < MAX_PAGES and time.time() < deadline:
-        try:
-            r = session.get(f"{base}?observations=1&limit={limit}&offset={offset}", timeout=25)
-        except requests.exceptions.RequestException as ex:
-            log(f"[DBnomics] {name} ({prov}/{ds}) ERROR: {ex} -> {ind.get('explorer','')}"); return
+        used_limit, r, req_err = limit, None, None
+        for lim, timeout_sec in ((limit, 25), (25, 45)):   # fallback: smaller page + longer timeout
+            try:
+                r = session.get(f"{base}?observations=1&limit={lim}&offset={offset}", timeout=timeout_sec)
+                used_limit = lim
+                req_err = None
+                break
+            except requests.exceptions.RequestException as ex:
+                req_err = ex
+        if r is None:
+            log(f"[DBnomics] {name} ({prov}/{ds}) ERROR: {req_err} -> {ind.get('explorer','')}"); return
         if r.status_code != 200:
             log(f"[DBnomics] {name} ({prov}/{ds}) HTTP {r.status_code} -> {ind.get('explorer','')}"); return
-        payload = r.json(); docs = payload.get("series", {}).get("docs", [])
+        payload = r.json()
+        series = payload.get("series", {}) if isinstance(payload, dict) else {}
+        docs = series.get("docs", [])
         if not docs: break
-        if total is None: total = payload.get("series", {}).get("num_found", 0)
+        if total is None: total = series.get("num_found", 0)
         for doc in docs:
             if fc:
                 cc, cn = fc
@@ -278,7 +330,7 @@ def fetch_dbnomics(ind):
                 if not canon: continue
                 cc, cn = canon
             obs, last = [], ""
-            for per, val in zip(doc.get("period", []), doc.get("value", [])):
+            for per, val in _doc_observations(doc, series):
                 if val is None or per is None: continue
                 y, m = _parse_period(per, freq)
                 if y is None or y < START_YEAR: continue
@@ -286,13 +338,15 @@ def fetch_dbnomics(ind):
                 pk = f"{y:04d}{m:02d}"
                 if pk > last: last = pk
             if not obs: continue
+            obs.sort(key=lambda x: (x[0], x[1]))   # keep monthly collapse behavior deterministic
             key = (cc or "").upper()
             cur = best.get(key)
             # keep the series that runs FURTHEST (tie: the one with more points)
             if cur is None or last > cur["last"] or (last == cur["last"] and len(obs) > len(cur["obs"])):
                 best[key] = {"last":last, "cc":cc, "cn":cn,
                              "icode":doc.get("series_code", f"{prov}.{ds}"), "obs":obs}
-        offset += limit; page += 1
+        limit = used_limit
+        offset += used_limit; page += 1
         if total is not None and offset >= total: break
     # emit the chosen series
     collapse = ind.get("monthly_collapse") or ind.get("forward_fill")
