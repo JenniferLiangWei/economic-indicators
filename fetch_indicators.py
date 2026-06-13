@@ -15,7 +15,7 @@
 # =============================================================================
 
 import csv, os, time
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.parse import quote
 import requests
 
@@ -238,7 +238,7 @@ def _country_from_doc(doc):
             return p, p
     return None, None
 
-def _parse_period(per, freq):
+def _parse_period(per):
     try:
         per = str(per)
         if "Q" in per:  return int(per[:4]), {1:3,2:6,3:9,4:12}.get(int(per.split("Q")[-1]),12)
@@ -332,8 +332,8 @@ def fetch_dbnomics(ind):
             obs, last = [], ""
             for per, val in _doc_observations(doc, series):
                 if val is None or per is None: continue
-                y, m = _parse_period(per, freq)
-                if y is None or y < START_YEAR: continue
+                y, m = _parse_period(per)
+                if y is None or not (1 <= m <= 12) or y < START_YEAR: continue
                 obs.append((y, m, val))
                 pk = f"{y:04d}{m:02d}"
                 if pk > last: last = pk
@@ -359,7 +359,7 @@ def fetch_dbnomics(ind):
             for (y, m, val) in obs:      # obs are chronological -> last day wins
                 md[(y, m)] = val
             if ffill and md:
-                now = datetime.utcnow()
+                now = datetime.now(timezone.utc)
                 yy, mm = sorted(md)[0]
                 cur, out = None, {}
                 while (yy, mm) <= (now.year, now.month):
@@ -383,7 +383,7 @@ def fetch_dbnomics(ind):
     log(f"[DBnomics] {name} ({prov}/{ds}): {got} rows, {len(best)} countries, latest {last_lbl}{flag}")
 
 # --------------------------------- run ---------------------------------------
-log(f"Run started {datetime.utcnow().isoformat()}Z")
+log(f"Run started {datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')}")
 for ind in INDICATORS:
     b = ind["backend"]
     if b == "worldbank":       fetch_worldbank(ind)
