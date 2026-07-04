@@ -1,31 +1,15 @@
-Run started 2026-07-03T08:34:14.426938Z
+Run started 2026-07-04T08:10:07.834308Z
 [WorldBank] GDP growth (annual %): 703 rows
-  WB retry 1 FP.CPI.TOTL.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 305 rows
-  WB retry 1 FR.INR.LEND: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 FR.INR.LEND: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Lending interest rate (%): 305 rows
-  WB retry 1 NY.GDP.DEFL.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 NY.GDP.DEFL.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
-  WB retry 1 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 3 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-[WorldBank] Exports of goods and services (% of GDP): 0 rows
-  WB retry 1 SP.URB.TOTL.IN.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 SP.URB.TOTL.IN.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 3 SP.URB.TOTL.IN.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-[WorldBank] Urban population (% of total): 0 rows
+[WorldBank] Exports of goods and services (% of GDP): 693 rows
+[WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
-  WB retry 1 NE.GDI.TOTL.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 NE.GDI.TOTL.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Gross capital formation (% of GDP): 690 rows
-  WB retry 1 FS.AST.PRVT.GD.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Domestic credit to private sector (% of GDP): 618 rows
-  WB retry 1 LP.LPI.OVRL.XQ: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 LP.LPI.OVRL.XQ: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Logistics Performance Index, overall: 185 rows
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
 [DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
@@ -43,20 +27,9 @@ Run started 2026-07-03T08:34:14.426938Z
 [WorldBank GEM] CPI inflation, % YoY: 6717 rows
 [WorldBank GEM] Industrial Production Index: 6116 rows
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
-  GEM retry 1 DMGSRMRCHNSCD: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank GEM] Merchandise Imports (USD, NSA): 7001 rows
-  GEM retry 1 RETSALESSA: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  GEM retry 2 RETSALESSA: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank GEM] Retail Sales Volume Index (SA): 2923 rows
-  GEM retry 1 REER: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  GEM retry 2 REER: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
-  GEM retry 1 TOT: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  GEM retry 2 TOT: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  GEM retry 3 TOT: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-[WorldBank GEM] Terms of Trade Index: 0 rows
-  GEM retry 1 TOTRESV: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  GEM retry 2 TOTRESV: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  GEM retry 3 TOTRESV: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-[WorldBank GEM] Total International Reserves (USD millions): 0 rows
-DONE  annual=9995 rows  periodic=49479 rows
+[WorldBank GEM] Terms of Trade Index: 3804 rows
+[WorldBank GEM] Total International Reserves (USD millions): 6676 rows
+DONE  annual=11392 rows  periodic=59959 rows
