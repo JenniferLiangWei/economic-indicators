@@ -1,13 +1,13 @@
-Run started 2026-07-04T08:10:07.834308Z
+Run started 2026-07-05T08:24:54.097894Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 305 rows
-[WorldBank] Lending interest rate (%): 305 rows
+[WorldBank] Lending interest rate (%): 0 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
-[WorldBank] Manufacturing, value added (% of GDP): 674 rows
+[WorldBank] Manufacturing, value added (% of GDP): 0 rows
 [WorldBank] Gross capital formation (% of GDP): 690 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 618 rows
 [WorldBank] Logistics Performance Index, overall: 185 rows
@@ -32,4 +32,4 @@ Run started 2026-07-04T08:10:07.834308Z
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=11392 rows  periodic=59959 rows
+DONE  annual=10413 rows  periodic=59959 rows
