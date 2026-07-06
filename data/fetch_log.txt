@@ -1,15 +1,24 @@
-Run started 2026-07-05T08:24:54.097894Z
+Run started 2026-07-06T09:35:07.528362Z
 [WorldBank] GDP growth (annual %): 703 rows
-[WorldBank] Inflation, consumer prices (annual %): 702 rows
-[WorldBank] Real interest rate (%): 305 rows
-[WorldBank] Lending interest rate (%): 0 rows
+  WB retry 1 FP.CPI.TOTL.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  WB retry 2 FP.CPI.TOTL.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  WB retry 3 FP.CPI.TOTL.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+[WorldBank] Inflation, consumer prices (annual %): 0 rows
+  WB retry 1 FR.INR.RINR: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+[WorldBank] Real interest rate (%): 0 rows
+[WorldBank] Lending interest rate (%): 305 rows
+  WB retry 1 NY.GDP.DEFL.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
+  WB retry 1 NV.IND.MANF.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  WB retry 2 NV.IND.MANF.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
-[WorldBank] Manufacturing, value added (% of GDP): 0 rows
+[WorldBank] Manufacturing, value added (% of GDP): 674 rows
 [WorldBank] Gross capital formation (% of GDP): 690 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 618 rows
+  WB retry 1 LP.LPI.OVRL.XQ: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  WB retry 2 LP.LPI.OVRL.XQ: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Logistics Performance Index, overall: 185 rows
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
 [DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
@@ -24,12 +33,15 @@ Run started 2026-07-05T08:24:54.097894Z
 [DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+  GEM retry 1 CPTOTSAXNZGY: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank GEM] CPI inflation, % YoY: 6717 rows
+  GEM retry 1 IPTOTNSKD: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  GEM retry 2 IPTOTNSKD: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank GEM] Industrial Production Index: 6116 rows
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
 [WorldBank GEM] Merchandise Imports (USD, NSA): 7001 rows
 [WorldBank GEM] Retail Sales Volume Index (SA): 2923 rows
-[WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
+[WorldBank GEM] Real Effective Exchange Rate Index: 0 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=10413 rows  periodic=59959 rows
+DONE  annual=10385 rows  periodic=55179 rows
