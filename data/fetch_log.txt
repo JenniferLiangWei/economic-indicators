@@ -1,4 +1,4 @@
-Run started 2026-07-11T07:23:58.468939Z
+Run started 2026-07-12T07:40:23.667607Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 305 rows
@@ -24,7 +24,6 @@ Run started 2026-07-11T07:23:58.468939Z
 [DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
-  GEM retry 1 CPTOTSAXNZGY: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 [WorldBank GEM] CPI inflation, % YoY: 6717 rows
 [WorldBank GEM] Industrial Production Index: 6116 rows
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
