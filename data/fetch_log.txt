@@ -1,4 +1,4 @@
-Run started 2026-07-12T07:40:23.667607Z
+Run started 2026-07-13T08:31:47.005769Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 305 rows
@@ -7,7 +7,10 @@ Run started 2026-07-12T07:40:23.667607Z
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
+  WB retry 1 NV.IND.MANF.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
+  WB retry 1 NE.GDI.TOTL.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  WB retry 2 NE.GDI.TOTL.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Gross capital formation (% of GDP): 690 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 618 rows
 [WorldBank] Logistics Performance Index, overall: 185 rows
