@@ -1,4 +1,5 @@
-Run started 2026-07-14T07:24:29.397891Z
+Run started 2026-07-15T07:28:45.182614Z
+  WB retry 1 NY.GDP.MKTP.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 305 rows
@@ -10,6 +11,7 @@ Run started 2026-07-14T07:24:29.397891Z
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
 [WorldBank] Gross capital formation (% of GDP): 690 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 618 rows
+  WB retry 1 LP.LPI.OVRL.XQ: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Logistics Performance Index, overall: 185 rows
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
 [DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
