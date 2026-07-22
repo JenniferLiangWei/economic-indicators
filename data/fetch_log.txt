@@ -1,8 +1,11 @@
-Run started 2026-07-21T07:53:55.705984Z
+Run started 2026-07-22T07:53:52.376315Z
+  WB retry 1 NY.GDP.MKTP.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
+  WB retry 1 FR.INR.RINR: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Real interest rate (%): 305 rows
-[WorldBank] Lending interest rate (%): 305 rows
+[WorldBank] Lending interest rate (%): 0 rows
+  WB retry 1 NY.GDP.DEFL.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
@@ -32,4 +35,4 @@ Run started 2026-07-21T07:53:55.705984Z
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=11392 rows  periodic=59959 rows
+DONE  annual=11087 rows  periodic=59959 rows
