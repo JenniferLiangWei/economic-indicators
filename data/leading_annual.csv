@@ -1,4 +1,707 @@
 Country Code,Country Name,Indicator Code,Indicator Name,Year,Value
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.99181200361831
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,4.30113648499413
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,7.51452414254605
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.55280140106356
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-8.69343363776639
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.27129120536284
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.53720634021511
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,-1.06137114472548
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,5.65790147196586
+ARE,United Arab Emirates,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,7.08766622657654
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.35039785076631
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.37340773365975
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.58382100798981
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.25304559238732
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,2.00694844335034
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-0.133531904304775
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.19401703622717
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.87417039499501
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.29331030192918
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.75564065529868
+AUS,Australia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.16434780647852
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.983117967125935
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.09775383828703
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.56125539542029
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.02460852835887
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.25445686466593
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-4.7929839083518
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.4428900448156
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.87796847383565
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.47446761556785
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.19350273007754
+BEL,Belgium,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.47416433731927
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.0963663917961
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.38708962009333
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.68151075832925
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.08386398118941
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,7.82817310703665
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.13323543125917
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,3.79331964589196
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.33015054210419
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.74592737750996
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.02662820096305
+BGR,Bulgaria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.39755351999294
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.48137573668635
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.89710543153512
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.87811614845566
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,6.18016125475185
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.35004091668986
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-5.9113629524152
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.05287774418655
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.05258864979861
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.95383534123657
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.81499327422425
+BHR,Bahrain,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.50787205267615
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.74268536175708
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.04626605401701
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.95308552199025
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.69541985045903
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,5.95052804984759
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-5.03823342794087
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.90843193887251
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.74296341402246
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.03383491841392
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.03855091989323
+CAN,Canada,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,0.64997101491096
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.36701156809835
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.09534007010555
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.720328299990356
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.03989151407053
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.57271679525719
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.30110758026468
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.03232614160713
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.95337220818838
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.10713071566526
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.80724942330426
+B8,Central Europe and the Baltics,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.0016836383322
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.95994886240992
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,4.95830378788091
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.41600334492955
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.13385438394069
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,8.57038414981781
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,2.33950385203023
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,6.06737806333672
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.757806142324
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,6.89123916636191
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,6.7736886867727
+CHN,China,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,6.98162255562367
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.77325347982725
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.94076934447787
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.62045368236082
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,8.73854684881674
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,11.3975590801512
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.22063018637567
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,5.87559583386607
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.27166360056404
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.75083236554525
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,6.57359080924678
+CYP,Cyprus,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.41892038889013
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.58046673293437
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.25131096245923
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.0475803308973752
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.8471706583814
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.02901832055149
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-5.30487955463876
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,3.56577658128261
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.83030588267866
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.17356529967881
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.58087013921376
+CZE,Czechia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.95875848915604
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.239578342117881
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,-0.495851897260366
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-0.869647578573321
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,1.8092581243061
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.90999994204108
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-4.13191443239947
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,0.977734697038784
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.13569604599849
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.797906720551
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.22222216259371
+DEU,Germany,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.66300602334775
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.92843280014236
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.47783593140312
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.604587766175584
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,0.443832614908331
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.50025445756295
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-1.78010601831291
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.71140093932736
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.8600074900921
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.05647723922718
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.07304549209093
+DNK,Denmark,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.10441456445301
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.99734138634533
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.72534172801831
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,4.07119548974431
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.05155877820648
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.48037639158159
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-0.0906651751610497
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.04090596808282
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.81200310102888
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.03667021498299
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,4.63114688285732
+Z4,East Asia & Pacific,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.75890325549717
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.20093767131738
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,4.05695234474402
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.05062997543834
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.11188050867233
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,9.27987062914227
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,0.29079640989535
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.61922676231219
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.78753357770429
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,6.00896760124667
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.85797309720172
+7E,Europe & Central Asia (excluding high income),NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.4855285083172
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.39201068570188
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.3991692678251
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.76028052279247
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,6.58784560870467
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.29064601193245
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,3.55016483883115
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,5.55209307084222
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,5.33110861887155
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.18122099961562
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,4.34664345601914
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.37201907781687
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.41107242318353
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.938707263867073
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.460070365687699
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.66468497532753
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.44349747359811
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.04374915754508
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.63208944796722
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.78229304985051
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.62315671239708
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.80681433573471
+XC,Euro area,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.14894477032594
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.584308464789387
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,-0.0900428648493801
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-2.74421914571231
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,-1.22616966587796
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,8.25488044580031
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.88380751483778
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,3.72664943466884
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.69969756161726
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.63467248963991
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.09301920751959
+EST,Estonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.83815262882932
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.173444509584499
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.374566568538427
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-1.28973484453397
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,0.763041912763526
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,2.67634641498897
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.49103605535707
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.34973845741737
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.19297759742292
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.30337003591039
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.57193414898754
+FIN,Finland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,0.466503766322674
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.840949955479587
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.19046798275883
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.43921494437743
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.71676264185913
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.88233783360239
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-7.44064589948231
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.02744646419237
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.64590872395887
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.08361485997399
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,0.860031075424033
+FRA,France,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.06675474783462
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.38844207858726
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.08027716858781
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.271650048355255
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,5.14970388522993
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,8.5431118453255
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-10.047896637362
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.25629899760824
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.55133095078786
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.02322219840339
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.20652020635357
+GB,United Kingdom,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.14040560033371
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.48764886355949
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.62936861207362
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.15034461759902
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,-3.68528359281325
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.45443038333934
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.54479640529367
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,-1.67242865968056
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.84690922660509
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.79610937243891
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.17544820327555
+HKG,Hong Kong,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.38780116013344
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.509542309726868
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.709070599066038
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-0.817107370513455
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.15238057779229
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,7.22291580811137
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-4.33872540024058
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,5.07718495088933
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,5.60613813768876
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.12418389451805
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.43864141309342
+HUN,Hungary,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.65981615406955
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,5.10808904438025
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,5.03257477088519
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.04883117855516
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,5.30719722664799
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.70288562827751
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.06551182934165
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,5.01928768046282
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,5.17429153955024
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.06978590134916
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,5.03306918280177
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.87632230022123
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,7.56666179284244
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,7.09927893176518
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,7.210224629335
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,7.6093649776932
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,9.68959249191741
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-5.77772470687303
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,3.87143694070524
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.45385134495295
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,6.79538341902422
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,8.25630550176662
+IND,India,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,7.99625378567987
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,12.3375990291434
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.59946721553708
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-2.53637409313261
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,7.51113888415304
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,16.2581881158197
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,7.15369505735335
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.97288003766816
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,7.68865937437435
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,10.1088576065965
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.22271661130947
+IRL,Ireland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,24.6239856364006
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.27946207863934
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,-1.2828764442695
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.0322597376242
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,8.85729897856851
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,5.18057190719905
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.64587810456635
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.13821227336888
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.66077036232377
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.48506704155555
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,6.21808764670307
+ISL,Iceland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.76859020213645
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.93114966387968
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.953618469238535
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.06272504731618
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,6.36407234798706
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,9.33534690236249
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-1.80206927953466
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,3.57898762923605
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.05349952888294
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.34394518932547
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,4.53601939236572
+ISR,Israel,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.23599889603805
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.539583636778445
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.783039135276795
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.922796543670316
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.82117669913565
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,8.93106210800055
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-8.86822122185345
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,0.429162533780342
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,0.826646712344115
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.60369995294101
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.23622108511661
+ITA,Italy,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,0.885667635240807
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,6.5
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,4.99999999996936
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.09999999973641
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.19999999970734
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.29999999729456
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.49999999628
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.50000000091883
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.09999999309841
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.10000000257358
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.09999999910173
+KAZ,Kazakhstan,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.20000000053288
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.63261093844984
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,4.66019594571891
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.71999241214208
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.85998104287999
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,7.59048947333467
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-0.272766327438816
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,5.11415885767801
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,5.64794640709219
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.83795817364721
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,4.21351706814744
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.96772112759767
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.731825804492
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,-1.47401818168846
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-1.64087799968877
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,6.75866711966617
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,1.67213054307859
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-4.81731593381585
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.26381706595791
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.74333045031415
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,-4.71222270495362
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.92607584256388
+KWT,Kuwait,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,0.592770817217982
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.32153204967842
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.25497168830525
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.20678468368602
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.09058657203177
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,7.07608139571873
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.85943781930433
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,0.317364964426716
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.22291785556858
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.55352771899284
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,-0.730974962811146
+ZJ,Latin America & Caribbean,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,0.239853960080666
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.92007656461696
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.03019543767596
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.739537398185803
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.46532013155011
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.39481772930206
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,0.0428158336981426
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.67735183530451
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.91836780106811
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.61224310312809
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.67192215053329
+LTU,Lithuania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.83280643343234
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.13786855731288
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,-0.0370556648288982
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-0.941606068823631
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,1.90853419029801
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.94254173062592
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.46922750780554
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,0.675372771884227
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.30971286294503
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.39894872623931
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.55168601974034
+LVA,Latvia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.78336712084972
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.67106705680436
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,7.84960207010525
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,75.3084184293413
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,-18.956941494497
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,22.4622020023362
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-54.4020925789353
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,-2.4609094006739
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.35917030567686
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,9.91855844513513
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,-0.701510212552961
+MAC,Macao,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,-21.7540078753246
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.59524349182247
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.79336515978963
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.65564411017931
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,1.81269242194809
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,8.15473889823681
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-7.17820744246774
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.89097476137077
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.06564133025955
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.05789816173446
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,0.52118550608968
+MAR,Morocco,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.34458297635238
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.561683456144578
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.35057631384696
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.1067964131456
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.70975708309098
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.04848347173572
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-8.35403459379062
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,-0.392690513290532
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.97208211101069
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.87172854648381
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.7724932254128
+MEX,Mexico,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.70232343024026
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.48706619829503
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.99373536567732
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.554965253403
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.75888415332967
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.51067949038222
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-4.68845000956652
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,3.91041953840173
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.88059670964267
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.08177273813243
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.84820519363306
+MKD,North Macedonia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.85586514041738
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.99549507789871
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.26137020265979
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.89591827095839
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.3206385298363
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.33211957315503
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.61983985761596
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.39546116127963
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.09831066371866
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.40247234432427
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,5.56210361617076
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.11561157880718
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.74455354258522
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.16409886329913
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,6.47836283518564
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,7.73954689516201
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,13.0462607426359
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-14.9926187023533
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.39391565821528
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.73292113433965
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.21668504736274
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.4393056210999
+MNE,Montenegro,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.52306333975571
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,5.17127082911057
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,5.10545921024041
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.5370638041057
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,9.03173723044451
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.31534954399166
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-5.45684658426701
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.41318742129586
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.84308697634881
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.81272240983328
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,4.44978139761541
+MYS,Malaysia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,5.09153242155011
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.78463214703797
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.07383137319854
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-0.598061017580278
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,5.00723453395074
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.27683593745216
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.86799714191608
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.3001616053659
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.25873158164956
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.78150834679987
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.42428065449427
+NLD,Netherlands,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.12064007193544
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.08528185031417
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.42372134524737
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.352695581319765
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.08039770659241
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.14314688769197
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-1.36055723261586
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.46970781954143
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.1103912365576
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.66964474273466
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.29158732771135
+NOR,Norway,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.04428845501438
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.462871830681081
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,-0.868722371893952
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.81389453412019
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.34521847792682
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.29916005216614
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-0.240916114758988
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.32371708441623
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.32219666491432
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.31568621648204
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.7435247472109
+NZL,New Zealand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.72968312125018
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.39787382295398
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.63163231397978
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.41401383200161
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,7.98570728354278
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,2.5821749892893
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.37972052697999
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,-1.12863801728058
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.28710391543288
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,0.304057565922449
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,5.04642394571691
+OMN,Oman,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,5.01705799719045
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.40240158710621
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,5.71474526128652
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.51894967856043
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,7.58098212785563
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,5.71473313185116
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-9.51829474045297
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,6.11852566221303
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.34148557153473
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,6.9309883258402
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,7.14945675000752
+PHL,Philippines,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,6.34830971672761
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.5727250346774
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.02841630700273
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.249610834017872
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,5.25545697386036
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.92718266052501
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.03556882399977
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.58045817256199
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.2458584723942
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.15245773325907
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.03117767594847
+POL,Poland,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.43176700264478
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.90166036660493
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.10963283242745
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.18715991623776
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.18500970982862
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,1.62684671918775
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.5576039896784
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,0.688240954592672
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.23487220191065
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,-1.49760470227838
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.06419188430156
+QAT,Qatar,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.75334572438737
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,0.677829835052762
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.916003764382594
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.25773416555121
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.18771305104109
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,5.58735072538869
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.59802546034757
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,3.96028958497598
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,5.39452228185675
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,8.19547826641261
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.85993252302089
+ROU,Romania,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.1570360543854
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.00117656925738
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,4.92167966203073
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,4.06661395813023
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,-1.43537063467896
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,5.866491772979
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.65365449695453
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.19807571381982
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.80634082046656
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.82670527549192
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,0.193671130698817
+RUS,Russia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,-1.9727192264298
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,7.12381420637792
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,6.75761201913679
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,6.7848640413625
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,7.10115392414392
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,9.24659959756499
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-4.98750173652559
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.09454306534288
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.39366632555758
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,6.78411966009934
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,7.96912333644603
+8S,South Asia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,7.68973935190233
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.50246560191663
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.64893068308965
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.542592439393161
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,12.0005874752929
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.51959698325419
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.80478901996312
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.65158925617395
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.2269508901591
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.18210705878283
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.70404739202878
+SAU,Saudi Arabia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.65512316652699
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,5.02588199508003
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,5.3435120192366
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,1.45026775889565
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.01027884472296
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,10.1410845197192
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.61084281729929
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.15877947300108
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.18660848474074
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.32679370770501
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.91095306322606
+SGP,Singapore,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.97679931634806
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.03039196235113
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.94992622592932
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.74793303561771
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.70347705543654
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,7.94905650472278
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-0.950023991851594
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,4.75020793899014
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.64935035491007
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.3634031250553
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.97519807160826
+SRB,Serbia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.2957386351958
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.13928145259649
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.6161279249573
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.71446691675897
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.03371066956886
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.58194129290288
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.29212615874913
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.54913933046186
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.79433082130898
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.5074548530006
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.31700355850863
+ZG,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.93344601140815
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.54316373266217
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.01779633304398
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-0.204061304891439
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,1.25543620445816
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,5.2258643028773
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-1.93379704032216
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.60823012869524
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.7702553546772
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.88282184966646
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.13117914731151
+SWE,Sweden,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.38824673608589
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.44247444990198
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.94859986593323
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.24883437970568
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.63784213566305
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,1.55858232076893
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.09306312966953
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.11455779628278
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.22287028746071
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.1776810321001
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.43515771692182
+THA,Thailand,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.13404724911635
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.49311010666248
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,1.61444564976986
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.184015548469745
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.75228761004381
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.73603648206102
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-8.97512622934723
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.55009304966742
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.60696965356362
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.25261437620587
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.117231963992
+TUN,Tunisia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,0.967834205635981
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.60462514082589
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.3276230893799
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.04512369812289
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,5.44122511322401
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,11.811094450607
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,1.80306247087255
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,1.30162365464503
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.46815306092219
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,7.82585730002594
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.32366508200445
+TUR,Türkiye,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,5.80557386628684
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,6.33181157677313
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,6.05558075875589
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.33697295511469
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.58802192181773
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.53658034070898
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,2.95130642218098
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,6.43874503276439
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.30392378262997
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.13140551723596
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,4.78100029254482
+UGA,Uganda,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,5.18785986002466
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.16138195623856
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.79318715363841
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.93436322440155
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.52421385073222
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.15202247867526
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.081375977796
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.58382533052225
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.96650506701943
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.45762230126449
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.81945147909089
+USA,United States,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.94555045227337
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,8.01882998978245
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,7.03955197123018
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,4.97865959483225
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,8.53750041218142
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,2.55372852648131
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,2.86541320912272
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,7.35926270105006
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,7.46500685572751
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,6.94019037359206
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,6.69000892660424
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,6.98715430598611
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,2.92127318539153
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,2.90001340156714
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.85938493335973
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.44001097265647
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.48508887596752
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.88621185457086
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.680308747553
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,3.28663086462807
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.44658623167955
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,2.78974074234593
+1W,World,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,3.12721325699906
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.11462608103956
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.534843531905139
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.80610455095804
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.05813661692193
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.85864865060148
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.1689177146757
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,0.25993557687633
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.55678384721676
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.15794695181735
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,0.664552307858116
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.32186223678229
 ARE,United Arab Emirates,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,1.250865245598
 ARE,United Arab Emirates,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,1.66336510224894
 ARE,United Arab Emirates,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,1.62670837213248
@@ -1006,6 +1709,311 @@ ZAF,South Africa,FR.INR.RINR,Real interest rate (%),2018,5.85618355804153
 ZAF,South Africa,FR.INR.RINR,Real interest rate (%),2017,4.64731548547952
 ZAF,South Africa,FR.INR.RINR,Real interest rate (%),2016,3.27825167845196
 ZAF,South Africa,FR.INR.RINR,Real interest rate (%),2015,3.66774283297156
+AUS,Australia,FR.INR.LEND,Lending interest rate (%),2019,5.101
+AUS,Australia,FR.INR.LEND,Lending interest rate (%),2018,5.26083333333333
+AUS,Australia,FR.INR.LEND,Lending interest rate (%),2017,5.2455
+AUS,Australia,FR.INR.LEND,Lending interest rate (%),2016,5.42083333333333
+AUS,Australia,FR.INR.LEND,Lending interest rate (%),2015,5.575
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2025,4.23581666666667
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2024,4.53578333333333
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2023,4.42983333333333
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2022,3.74595833333333
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2021,4.11618333333333
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2020,4.33663333333333
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2019,4.54920833333333
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2018,4.963225
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2017,5.43955833333333
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2016,6.39301666666667
+BGR,Bulgaria,FR.INR.LEND,Lending interest rate (%),2015,7.44886666666667
+BHR,Bahrain,FR.INR.LEND,Lending interest rate (%),2015,5.16083333333333
+CAN,Canada,FR.INR.LEND,Lending interest rate (%),2017,2.7
+CAN,Canada,FR.INR.LEND,Lending interest rate (%),2016,2.7
+CAN,Canada,FR.INR.LEND,Lending interest rate (%),2015,2.775
+CHN,China,FR.INR.LEND,Lending interest rate (%),2024,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2023,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2022,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2021,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2020,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2019,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2018,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2017,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2016,4.35
+CHN,China,FR.INR.LEND,Lending interest rate (%),2015,4.35
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2025,4.66837231799845
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2024,4.71398151729159
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2023,4.68277500627328
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2022,4.22500917823384
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2021,3.20212533339961
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2020,3.34430704292427
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2019,3.68603218349691
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2018,3.54161587741081
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2017,3.58974364323778
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2016,3.9072462757748
+CZE,Czechia,FR.INR.LEND,Lending interest rate (%),2015,4.28253332923938
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2024,24.2916666666667
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2023,17.7583333333333
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2022,10.5833333333333
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2021,9.425
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2020,11.3666666666667
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2019,16.1166666666667
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2018,18.3166666666667
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2017,18.175
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2016,13.6
+EGY,Egypt,FR.INR.LEND,Lending interest rate (%),2015,11.625
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2025,5.17708333333333
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2024,5.73958333333333
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2023,5.77083333333333
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2022,5.10416666666667
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2021,5
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2020,5
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2019,5.10416666666667
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2018,5.04166666666667
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2017,5
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2016,5
+HKG,Hong Kong,FR.INR.LEND,Lending interest rate (%),2015,5
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2025,8.01151582250833
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2024,9.12671515640833
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2023,15.3020823180167
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2022,10.6554314535917
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2021,2.9645376181
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2020,1.95768913324167
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2019,1.79243378790833
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2018,1.47096759300833
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2017,1.48114342166667
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2016,2.08907111213333
+HUN,Hungary,FR.INR.LEND,Lending interest rate (%),2015,2.90249069046667
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2025,8.50158323159017
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2024,8.79568784927158
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2023,8.92666666666667
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2022,8.52
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2021,8.9225
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2020,9.54416666666667
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2019,10.3658333333333
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2018,10.5366666666667
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2017,11.0733333333333
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2016,11.8883333333333
+IDN,Indonesia,FR.INR.LEND,Lending interest rate (%),2015,12.6625
+IND,India,FR.INR.LEND,Lending interest rate (%),2022,8.56714285714286
+IND,India,FR.INR.LEND,Lending interest rate (%),2021,8.69833333333333
+IND,India,FR.INR.LEND,Lending interest rate (%),2020,9.15
+IND,India,FR.INR.LEND,Lending interest rate (%),2019,9.46625
+IND,India,FR.INR.LEND,Lending interest rate (%),2018,9.45416666666667
+IND,India,FR.INR.LEND,Lending interest rate (%),2017,9.50833333333333
+IND,India,FR.INR.LEND,Lending interest rate (%),2016,9.6725
+IND,India,FR.INR.LEND,Lending interest rate (%),2015,10.0083333333333
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2025,11.008035068816
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2024,12.4573766403134
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2023,11.5309721139305
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2022,7.59730075370325
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2021,5.40415749831761
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2020,5.75871241217229
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2019,6.95
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2018,6.955
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2017,7.25583333333333
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2016,8.23666666666667
+ISL,Iceland,FR.INR.LEND,Lending interest rate (%),2015,7.61
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2022,2.95817645390829
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2021,3.1007500688235
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2020,3.30802353223165
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2019,3.53355862696966
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2018,3.47760649522146
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2017,3.49731030066808
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2016,3.42015574375788
+ISR,Israel,FR.INR.LEND,Lending interest rate (%),2015,3.45940579970678
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2025,4.07304808333333
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2024,5.25244583333333
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2023,4.89248125
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2022,2.264455
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2021,2.02591666666667
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2020,2.32833333333333
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2019,2.6025
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2018,2.68
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2017,3.00083333333333
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2016,3.49616666666667
+ITA,Italy,FR.INR.LEND,Lending interest rate (%),2015,4.12925
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2024,16.5931072517574
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2023,13.588501716128
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2022,12.3358409030593
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2021,12.0799983467507
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2020,11.9957846171539
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2019,12.4411328875146
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2018,13.0607588353757
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2017,13.6675725164372
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2016,16.5596306460545
+KEN,Kenya,FR.INR.LEND,Lending interest rate (%),2015,16.086613785739
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2025,5.03093333333334
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2024,5.17131666666667
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2023,4.92779166666667
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2022,3.912775
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2021,3.70596666666667
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2020,4.13990833333333
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2019,4.8111
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2018,4.827
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2017,4.69493333333333
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2016,4.47658333333333
+KWT,Kuwait,FR.INR.LEND,Lending interest rate (%),2015,4.2949
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2025,5.45105209078972
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2024,6.01747975323522
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2023,6.00960180074487
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2022,5.34309825057094
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2021,5.26037313818147
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2020,5.26109735335453
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2019,5.35664740505193
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2018,5.29146661101172
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2017,5.25
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2016,5.25
+MAC,Macao,FR.INR.LEND,Lending interest rate (%),2015,5.25
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2025,8.78583333333333
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2024,11.2233333333333
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2023,11.5916666666667
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2022,8.17916666666667
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2021,4.89166666666667
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2020,6.34166666666667
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2019,8.42916666666667
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2018,8.04
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2017,7.3325
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2016,4.75416666666667
+MEX,Mexico,FR.INR.LEND,Lending interest rate (%),2015,3.43916666666667
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2025,5.41591048775874
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2024,5.85131870695966
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2023,5.44084059566623
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2022,4.63306721882146
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2021,4.85796763215591
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2020,5.193220791087
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2019,5.60936382915275
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2018,6.10691833969552
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2017,6.60665710643843
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2016,7.0175977722394
+MKD,North Macedonia,FR.INR.LEND,Lending interest rate (%),2015,7.45627705916539
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2025,6.31833333333333
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2024,6.59666666666667
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2023,6.345
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2022,5.63833333333333
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2021,5.76083333333334
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2020,5.90666666666667
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2019,6.175
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2018,6.52916666666667
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2017,7.19666666666667
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2016,7.97166666666667
+MNE,Montenegro,FR.INR.LEND,Lending interest rate (%),2015,8.93333333333333
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2025,4.82472886111111
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2024,5.282681
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2023,5.31737500641025
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2022,3.90802666666667
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2021,3.44410640384615
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2020,3.94420769234615
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2019,4.87689294871795
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2018,4.92844038461538
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2017,4.60807808641975
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2016,4.53106666666667
+MYS,Malaysia,FR.INR.LEND,Lending interest rate (%),2015,4.565375
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2025,5.8775
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2024,6.14916666666667
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2023,5.30833333333334
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2022,3.24333333333333
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2021,2.27416666666667
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2020,2.6975
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2019,3.23583333333333
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2018,2.92583333333333
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2017,3.00583333333333
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2016,3.07
+NOR,Norway,FR.INR.LEND,Lending interest rate (%),2015,3.5
+NZL,New Zealand,FR.INR.LEND,Lending interest rate (%),2017,4.76
+NZL,New Zealand,FR.INR.LEND,Lending interest rate (%),2016,5.02083333333333
+NZL,New Zealand,FR.INR.LEND,Lending interest rate (%),2015,5.7625
+OMN,Oman,FR.INR.LEND,Lending interest rate (%),2021,5.49783609712142
+OMN,Oman,FR.INR.LEND,Lending interest rate (%),2020,5.46649920548604
+OMN,Oman,FR.INR.LEND,Lending interest rate (%),2019,5.41334351278467
+OMN,Oman,FR.INR.LEND,Lending interest rate (%),2018,5.24638450213673
+OMN,Oman,FR.INR.LEND,Lending interest rate (%),2017,5.15266271716578
+OMN,Oman,FR.INR.LEND,Lending interest rate (%),2016,4.91108333333333
+OMN,Oman,FR.INR.LEND,Lending interest rate (%),2015,4.8785
+PHL,Philippines,FR.INR.LEND,Lending interest rate (%),2019,7.09583333333333
+PHL,Philippines,FR.INR.LEND,Lending interest rate (%),2018,6.1185
+PHL,Philippines,FR.INR.LEND,Lending interest rate (%),2017,5.62725
+PHL,Philippines,FR.INR.LEND,Lending interest rate (%),2016,5.642
+PHL,Philippines,FR.INR.LEND,Lending interest rate (%),2015,5.57825
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2025,4.75395
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2024,6.18
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2023,6.44900833333333
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2022,4.56216060132599
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2021,3.85107422420221
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2020,4.08648019909165
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2019,5.03907055609657
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2018,4.98064264061083
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2017,4.69653289329285
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2016,4.04068494236452
+QAT,Qatar,FR.INR.LEND,Lending interest rate (%),2015,4.43596212623861
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2025,8.52155041563583
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2024,8.76207529347297
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2023,9.32096121452692
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2022,7.75709430926468
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2021,5.61349905718721
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2020,6.48640122828969
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2019,7.16166666666667
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2018,6.80820228932061
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2017,5.56451674276812
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2016,5.70916666666667
+ROU,Romania,FR.INR.LEND,Lending interest rate (%),2015,6.7675
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2024,17.0925
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2023,11.6225
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2022,11.4591666666667
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2021,7.18108333333333
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2020,6.77583333333333
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2019,8.75333333333333
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2018,8.86666666666667
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2017,10.56
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2016,12.5983333333333
+RUS,Russia,FR.INR.LEND,Lending interest rate (%),2015,15.7166666666667
+SGP,Singapore,FR.INR.LEND,Lending interest rate (%),2021,5.25
+SGP,Singapore,FR.INR.LEND,Lending interest rate (%),2020,5.25
+SGP,Singapore,FR.INR.LEND,Lending interest rate (%),2019,5.25
+SGP,Singapore,FR.INR.LEND,Lending interest rate (%),2018,5.33
+SGP,Singapore,FR.INR.LEND,Lending interest rate (%),2017,5.28
+SGP,Singapore,FR.INR.LEND,Lending interest rate (%),2016,5.35
+SGP,Singapore,FR.INR.LEND,Lending interest rate (%),2015,5.35
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2025,3.9425
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2024,4.51416666666667
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2023,4.28583333333333
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2022,3.13833333333333
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2021,3.06
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2020,3.2925
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2019,4.08416666666666
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2018,4.14666666666666
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2017,4.41658283333333
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2016,4.46834552349908
+THA,Thailand,FR.INR.LEND,Lending interest rate (%),2015,4.73187498877014
+UGA,Uganda,FR.INR.LEND,Lending interest rate (%),2018,19.8465587059191
+UGA,Uganda,FR.INR.LEND,Lending interest rate (%),2017,21.2786714889596
+UGA,Uganda,FR.INR.LEND,Lending interest rate (%),2016,23.8861326246628
+UGA,Uganda,FR.INR.LEND,Lending interest rate (%),2015,22.60135726942
+USA,United States,FR.INR.LEND,Lending interest rate (%),2021,3.25
+USA,United States,FR.INR.LEND,Lending interest rate (%),2020,3.54416666666667
+USA,United States,FR.INR.LEND,Lending interest rate (%),2019,5.2825
+USA,United States,FR.INR.LEND,Lending interest rate (%),2018,4.90416666666667
+USA,United States,FR.INR.LEND,Lending interest rate (%),2017,4.09666666666667
+USA,United States,FR.INR.LEND,Lending interest rate (%),2016,3.51166666666667
+USA,United States,FR.INR.LEND,Lending interest rate (%),2015,3.26
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2023,9.323
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2022,8.01333333333333
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2021,7.811
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2020,7.6475
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2019,7.7075
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2018,7.371875
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2017,7.0675
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2016,6.96
+VNM,Vietnam,FR.INR.LEND,Lending interest rate (%),2015,7.1175
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2025,10.6875
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2024,11.625
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2023,11.5
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2022,8.79166666666667
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2021,7.04166666666667
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2020,7.70833333333333
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2019,10.125
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2018,10.0833333333333
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2017,10.375
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2016,10.4583333333333
+ZAF,South Africa,FR.INR.LEND,Lending interest rate (%),2015,9.41666666666667
 ARE,United Arab Emirates,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",2024,1.62664333887908
 ARE,United Arab Emirates,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",2023,-2.02049184324265
 ARE,United Arab Emirates,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",2022,12.5978571520875
