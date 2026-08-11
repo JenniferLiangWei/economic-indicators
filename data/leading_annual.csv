@@ -4114,6 +4114,636 @@ ZAF,South Africa,SP.URB.TOTL.IN.ZS,Urban population (% of total),2018,63.3771545
 ZAF,South Africa,SP.URB.TOTL.IN.ZS,Urban population (% of total),2017,63.3311078299936
 ZAF,South Africa,SP.URB.TOTL.IN.ZS,Urban population (% of total),2016,63.2750973439347
 ZAF,South Africa,SP.URB.TOTL.IN.ZS,Urban population (% of total),2015,63.2096349937231
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,3.07727382766052
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.90282916884723
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,11.0368062364505
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,13.6976999384015
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-15.5147379553096
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,5.17432056635579
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.0137637411445
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,-1.10416270670375
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,13.1248896736279
+ARE,United Arab Emirates,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,19.0195803106873
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-2.18062698230929
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.18634486962786
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,0.243741536752196
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,2.21529769171799
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,1.85367264314633
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-1.553703479641
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.811843024856515
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.22781923415556
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,-0.68448477290157
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-2.1131948390899
+AUS,Australia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-1.60502008863853
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,0.219082528422305
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-2.09438403394775
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-1.45253294825636
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,15.7734881337148
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,-5.07864531161925
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-6.83745246194447
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,3.06022023933663
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.24402765514135
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.52071674943825
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-1.9930391787283
+BEL,Belgium,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,1.41578631975574
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.71368595357799
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,4.51818210893273
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,1.95507565029442
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,5.74819091343477
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,10.5650717573051
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-3.78155444107304
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,0.520457454710183
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.11645546695642
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,1.8499731455511
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,5.29421509319714
+BHR,Bahrain,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,3.19562833799031
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-2.60459388996718
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-2.60118752274985
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-0.0737515559920894
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,1.71332642484219
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,6.43716655208809
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-8.53591737145562
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.0191898964728097
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,3.06012188872187
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,1.94485585215452
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-0.00934252128543278
+CAN,Canada,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,0.566681586745858
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,1.31063480498761
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.620614384775962
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,2.79087447043401
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,5.46165043553668
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,2.53549850517707
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-7.26442506161553
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,4.02532837059243
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.8791410162607
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,4.60640256328738
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,3.45877431812997
+B8,Central Europe and the Baltics,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,7.07060306514894
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,2.76775645177254
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.79628006543855
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,12.5873476180382
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-9.95111110750115
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,-1.35275896163751
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-1.35037932980589
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,7.88680603287277
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,16.5937857320408
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,14.1448865474165
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,14.4841555998186
+CYP,Cyprus,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,7.96963095039358
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,0.934504233696742
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-4.06927962265158
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.92231690731141
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,8.30990559066333
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,1.59565384187013
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-10.7289761750975
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,4.41674074939939
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.96104875727062
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,8.35009128730822
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.51350134653856
+CZE,Czechia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,7.81578032872574
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-0.982449504694088
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-4.28193177411704
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-1.59029699293619
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,1.99780092594584
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,9.1200002502612
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-8.26529634056256
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-1.40195425461175
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.25469388390074
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.31157158117495
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,3.89265748537912
+DEU,Germany,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,0.932632085478645
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,9.16745080430061
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,17.05123578061
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,13.4273764165277
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,13.9594425275768
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,14.8293776370072
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-7.01944127368486
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,5.86427897756343
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.83310756142765
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,9.40473292943931
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.86759552129146
+DNK,Denmark,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,0.203953368968584
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.695364647472
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,4.8449619111163
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,2.29566385833621
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,13.3374508212445
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,3.73122519276781
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,1.64304993903647
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,31.8565731361599
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,7.51841475041542
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.09617075803415
+7E,Europe & Central Asia (excluding high income),NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.35742435585964
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,11.2000000039127
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-5.39937014450153
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-3.3660537697337
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,9.56562802562371
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,-5.8923813411923
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,0.82203969437586
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.80761338533877
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.78059985203187
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.05780458618246
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.756345682901156
+EGY,Egypt,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,3.05669296788649
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,2.84897839812753
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-1.19115624555288
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-2.78633188970589
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,3.59616348218464
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,10.8697553585233
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-6.94848279745798
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,0.351579901609142
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.0704875577073
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.70563885931392
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,2.33836417218976
+XC,Euro area,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,4.39418156024276
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,5.67191216651264
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-4.54297347957706
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-7.28477486010691
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-10.0129817888299
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,7.29057332677306
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-6.17782602637251
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,6.09556568502154
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.86518976983619
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,4.02170414025356
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.26123656604527
+EST,Estonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.38388596309503
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,1.86712802820877
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.73945361824173
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-3.84080625932903
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-6.41165879810801
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,-0.730677813055266
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-2.77872842415422
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,4.01495635270901
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,-4.07617376422992
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,7.43753779776564
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.82128576699814
+FIN,Finland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,0.379701875447978
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,0.420484237673492
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.32105143916648
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,2.78051006574889
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-3.72509929360673
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,8.63333552611014
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-8.90645725163166
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,1.92689144612159
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.86216814051907
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.02677485736717
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.457454679650567
+FRA,France,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,0.356375176099817
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-0.762487818975387
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,0.649918867049465
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,1.83343024450828
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-2.58247772126299
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,5.36298150422621
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-0.824856489949582
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,1.26335105711732
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.79970098509281
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,1.73160589198118
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-1.07223930247615
+GB,United Kingdom,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.22775617359329
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.21434851415509
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,0.811883996312844
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.7442989554215
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,0.206398348813224
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,5.46938775510203
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-5.83476701196969
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,0.419040617533554
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.27312660536798
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,0.433693498336268
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-0.439233203052297
+HKG,Hong Kong,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-1.53208957959168
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-2.59740864007188
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-3.84326211897282
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-4.2901552791805
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,4.25756508471203
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,7.01759027850508
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-7.40001923601577
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,1.91700909650675
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.55331821005346
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.24618425564285
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.325489248961034
+HUN,Hungary,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,8.70711583468369
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,5.29742297634328
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,4.42837183414721
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,4.63976720382975
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,4.89234236527079
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,3.38932585034854
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-2.93180673965698
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,3.79778426642783
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.27400755353271
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,4.29323177830041
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.25651521514337
+IDN,Indonesia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,4.32930888155884
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,11.5318729245421
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,9.28903365598556
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,12.7070256487047
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-1.74419656345441
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,9.95521967174959
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,3.07361099351033
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-2.97496294208385
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,5.41155688503716
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,7.52706360291219
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,7.9268214208404
+IND,India,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,13.0593935813959
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,31.0291450675892
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.988674211686686
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-20.4345434164732
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,15.8232797497334
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,24.1086633718535
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,22.8060262539643
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,1.83429793506855
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,11.0413919588182
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.54711880382195
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-1.26750892952252
+IRL,Ireland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,83.4169867461475
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-3.48649999152046
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,4.51505025970221
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-5.22993637166715
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,1.39191940528953
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,11.987070599237
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-2.24044857290656
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-7.61540325669294
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,9.12840546979
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,-3.82090223437271
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.898224163667649
+ISL,Iceland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,3.63023567350493
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.21367396351815
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,1.34000028899055
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,1.68502967789334
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,8.69682791099102
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,9.59347623374775
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,3.97259288360188
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,8.80072274527836
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.84968420212368
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-3.2714229564173
+ISR,Israel,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,0.183558721542724
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-0.280688648882617
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,0.879651801560684
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-1.03941786744922
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,2.64985637683286
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,15.62592675162
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-13.7092899997502
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,0.154530444427834
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.0274985509497
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.66841889895018
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,2.0231847523013
+ITA,Italy,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.50441049686508
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,6.39999999999998
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,6.79999999906875
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.999999997072
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,3.6000000031501
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,4.7000000008734
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,3.99999999618881
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,5.80000000090052
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.50000000214197
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,6.09999999893446
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.8000000019115
+KAZ,Kazakhstan,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,0.200000000592837
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,1.97628006711807
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.95069080878936
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,2.15182113234764
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,2.59895144093622
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,7.30788980529586
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-0.288468897879895
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.63969497700816
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,3.5771253649305
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,0.696021924619998
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.89751517925775
+KEN,Kenya,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,5.8576137092633
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,0.826752348390826
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,6.02404192550559
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-17.263630895252
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-9.169978957213
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,22.5817546072053
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,31.1870607319276
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-9.71255686678043
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.24449968147347
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,6.94108512434039
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,19.8785516022867
+KWT,Kuwait,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-5.65452070182545
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,0.723902537292759
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,0.176282884000557
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-0.220269485129108
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,3.21932916634779
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,8.51642175477431
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-7.15905300288563
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.897069926981516
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.06412898976001
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.07935155676293
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-1.39038014966286
+ZJ,Latin America & Caribbean,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-0.767042226327206
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.22817240668975
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.89869147708004
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-2.74842721638578
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,5.5287259380943
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,11.0296177481298
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,0.998983665873013
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,3.98491348960965
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.67307567441631
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,5.9780944126945
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,2.73657579709814
+LTU,Lithuania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,3.63118290691276
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,4.74687854710555
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-3.28649130855301
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-2.29400901029317
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-4.16569736931798
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,10.16567005572
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,0.763267550214138
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,1.03382369448548
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,7.4294322246905
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,6.82546634756325
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.70704251087197
+LVA,Latvia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,4.42565477570542
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,4.22117030953484
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,3.33786942997583
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.10655932287129
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,2.45458706603181
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,9.02378878925218
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-7.43662700161084
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,3.39327184634574
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,3.16864838862212
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.38626680461344
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.664827764639881
+MAR,Morocco,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,1.57278924490487
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-0.513759035930178
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.0541060208475557
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,1.41679358429954
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,5.61156989756242
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,8.76403814018039
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-8.21475549778552
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.0447815791033292
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.35591191460074
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.56692353187735
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.908943310682659
+MEX,Mexico,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,3.43696161856816
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.61331304577428
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.67857491154638
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,4.44075596905591
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-3.67363918213572
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,6.09358394252517
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-4.7872621933779
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.5878298002135
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,6.18584503981307
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,1.64166738908342
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-1.53172133554828
+MKD,North Macedonia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,4.96490049715695
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.13331984675773
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,0.94319379742349
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,9.33808907122102
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,3.21486298970966
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,0.999015995608474
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.54118227208022
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.62733619876576
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,4.2615208217303
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,3.56555431970713
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-1.51123834516763
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,15.9378986086179
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-9.59872433753492
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,5.17791098074225
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,12.0609130012488
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-10.3673855184936
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,0.380643961194039
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,9.70844798233732
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,6.21002360943621
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.803791449735343
+MNE,Montenegro,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.0256097998851
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,4.52953286306723
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,4.15499559786228
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,0.705000707363808
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,8.16728317487929
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,9.46626103470609
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-2.74354414899217
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,3.7528592988218
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.95035102236618
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,6.04791168969454
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.39025758770377
+MYS,Malaysia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,4.80648772549121
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.26185737819722
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-1.0212438033131
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-1.67619393781943
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,4.90061107479249
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,11.2844260379915
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-1.83315836634586
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,1.13263185950296
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.84929045326956
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,7.00250799156292
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,2.82045785584381
+NLD,Netherlands,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,1.20799521292608
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,4.22894180637672
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,1.11940302747826
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-0.00671090746646996
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,0.723227245334584
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,5.58061198506724
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-4.75560420811819
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.04141078172762
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.75494733422583
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,0.190914593720265
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,-4.42600303306523
+NOR,Norway,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-4.32674275269508
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-1.03363902490898
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-2.02048971872395
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-5.96760965865141
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,3.17333311734596
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-2.46488976187858
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.825893064900669
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.41122729423913
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.08772053236505
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,2.44965795721181
+NZL,New Zealand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.29871195789117
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,2.4881734974302
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,7.45484387692048
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-2.1325412502905
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,14.0169581346052
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,7.08281610214576
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-11.3030074241852
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.619020821609453
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,8.25830907737088
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,0.554742538202362
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,3.8855890255975
+OMN,Oman,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,6.04379124175165
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,2.53133428787828
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,3.69404720303746
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,1.38667608028969
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,4.85685167997205
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,8.88236036011421
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-9.78203687612806
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,3.7876207775124
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,5.14491248881686
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,8.03343944252228
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,6.84187655315907
+PHL,Philippines,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,5.17497370183526
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.65201214036506
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,0.75993653498459
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,4.85730102440722
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,12.342684147774
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,-0.790623229387705
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-5.57692557484532
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,6.37908438374888
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,5.68148453363327
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,1.8518627116178
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,5.32091900243323
+POL,Poland,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,7.17284547705792
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.9254003187372
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-4.01465445719037
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,2.70849018360776
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,2.1234946861284
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,3.87306702888593
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-6.70691297359168
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-1.72363123643649
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,6.74282395191076
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,-0.823651155622727
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.979454188596534
+QAT,Qatar,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,6.3274455036761
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-3.37182664912591
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,0.185072005922365
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,7.80137248980355
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-8.62123467020307
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,6.00131603662687
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-8.74621321565844
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-1.618634378346
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,6.14218127342599
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,8.19248866613896
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.3893132951831
+ROU,Romania,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,4.97903800677264
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.92598973217663
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,8.67001486318699
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,7.57083914877174
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-2.02037507170134
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,5.84316921657597
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,0.140978219897221
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.86758456514571
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,3.96223819301366
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,4.38600666508387
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.08646645443149
+RUS,Russia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-0.915451791661042
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,10.7441579713423
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,8.49059212829455
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,11.7464264191707
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-0.654868109392311
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,10.0382970046458
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,2.67053163143245
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-1.33897628053603
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,5.82139837264654
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,7.41943178269806
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,8.02749332740153
+8S,South Asia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,12.4440763858014
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,5.10992080875275
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,4.9928394381713
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,0.206429107608059
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,11.1611497990613
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,12.8411942881869
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-4.64834176410884
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.79921142283209
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,0.59460824805609
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,1.82064627121147
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,3.84987421542549
+SAU,Saudi Arabia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,8.88258792691146
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,8.71132299860209
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,3.77836480166292
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-4.23025879230259
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,2.69976245639785
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,13.3035400098529
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,7.53070630169745
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-1.45509790322289
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,7.02870044128213
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,10.4061153347912
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,3.70100080680746
+SGP,Singapore,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-5.12780179914613
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,4.5916309028984
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,0.897339533714089
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,1.07336822625813
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,4.52319259794476
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-1.98661407659519
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.886112772275112
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.4314432970876
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.55183996246183
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.82593920842062
+SRB,Serbia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.27796283499427
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,2.31328112633081
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,2.14181348423436
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,2.27471403177407
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,3.29169715677374
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,6.07141190116684
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-7.94996736600397
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,2.04274127576014
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,2.7014769590925
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.13536615615695
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.62610488692505
+ZG,Sub-Saharan Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,2.10336201626096
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,0.529996629592191
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,0.770838610707386
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-9.04231149944458
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,7.51785318866254
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,13.8994678302101
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-6.40639592096275
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-1.11849610634394
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,3.25782898770348
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.99642842735992
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,1.89117110964618
+SWE,Sweden,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,6.72755218939862
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,0.43063840972097
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.298570784046674
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-2.48946951494503
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,1.35462523458494
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,4.66774319756051
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-5.30213228011566
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.846653955735547
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,3.46281923209557
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,2.90483221928757
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,2.25753237926006
+THA,Thailand,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,1.50939006667303
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,3.1552690152736
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.549576368216165
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,-0.409733255288899
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,4.88845301312411
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,7.52018929067435
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-9.87506470829116
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.859447410550828
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.84659312539983
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,1.47001781120126
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.406953176539787
+TUN,Tunisia,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-0.631061826683094
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.519818612994968
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.36991173762394
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,3.38223397654698
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,19.5237281157508
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,2.8898954274847
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-1.8127765921935
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.41294345482579
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,8.73756520589539
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,4.68918011615094
+TUR,Türkiye,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,4.89933548067494
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,5.62327660854407
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,4.67949432539399
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.12714410769166
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,3.83584037320335
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,2.20517399548169
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,1.25559548912457
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,7.70122074004792
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,4.6246635718107
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,3.56981014216473
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.595060055852343
+UGA,Uganda,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,11.6334223931262
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,9.96745166346183
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,9.58718708216364
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,3.54082950992624
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,8.99068270252108
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,5.36506243466988
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,4.99213996308822
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,9.59482616638763
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,11.4803736312086
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,12.1260375967659
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,11.1402193222263
+VNM,Vietnam,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,9.18577833245151
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2025,-1.17845593295685
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2024,-0.351051795494115
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2023,0.363799204073899
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2022,-0.345601371529668
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2021,6.80812208739738
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2020,-12.1352312576241
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2019,-0.697416660814199
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2018,1.51704366089243
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2017,-0.188364593198727
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2016,0.44947315357345
+ZAF,South Africa,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",2015,-0.185399244282692
 ARE,United Arab Emirates,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",2024,9.37365289381873
 ARE,United Arab Emirates,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",2023,9.45859478112557
 ARE,United Arab Emirates,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",2022,8.54436252357344
@@ -5478,6 +6108,624 @@ ZAF,South Africa,NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),2018,16.17058
 ZAF,South Africa,NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),2017,16.6107340612402
 ZAF,South Africa,NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),2016,16.9604522948246
 ZAF,South Africa,NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),2015,18.6332066638376
+ARE,United Arab Emirates,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,65.4574311816346
+ARE,United Arab Emirates,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,76.167662138751
+ARE,United Arab Emirates,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,88.835691606539
+ARE,United Arab Emirates,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,75.2884970259968
+ARE,United Arab Emirates,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,73.9843078244922
+ARE,United Arab Emirates,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,78.1488923243763
+ARE,United Arab Emirates,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,81.9398449176157
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,133.792637955073
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,129.317349651589
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,126.962120898014
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,133.643883130746
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,138.339567139855
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,141.704749324425
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,135.666714386567
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,139.498062822532
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,140.108067004121
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,142.104255731186
+AUS,Australia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,135.800292705604
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,68.1376441872691
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,69.3369709063389
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,72.554533895031
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,74.7536988644538
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,76.125350915761
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,69.360003620854
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,68.168572322727
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,65.3372340367951
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,63.6160862759358
+BEL,Belgium,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,60.8026221428606
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,47.0679032225989
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,45.3249399571121
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,44.7288118186282
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,48.1534654169725
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,51.3032068254938
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,49.8324838490204
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,50.5406112544307
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,49.8038894112568
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,52.0197523897334
+BGR,Bulgaria,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,54.79459874964
+BHR,Bahrain,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,70.5500803025
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,36.959552092698
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,37.5850845236719
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,40.7359698336697
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,44.2661495895077
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,45.9179183818848
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,44.7509511527692
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,45.8614552848946
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,46.3322344239181
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,47.8822178115779
+B8,Central Europe and the Baltics,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,47.8463114741077
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,194.312528264561
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,189.606708989308
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,181.785162429715
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,173.554518720488
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,179.104100221958
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,162.207566232758
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,154.991560224764
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,152.089747458443
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,153.192761827313
+CHN,China,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,149.628832038708
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,56.6577631532363
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,60.571861381716
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,70.8069403957086
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,87.3952443793853
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,106.473520309929
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,106.68413611383
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,135.318599181494
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,191.783932232274
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,216.242757371797
+CYP,Cyprus,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,243.416337343981
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,48.0206642758804
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,47.7195252266584
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,48.6347695390782
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,52.0361206166061
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,51.9829906329751
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,49.4401047128065
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,50.7185195587911
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,50.2324425641548
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,50.5721831167678
+CZE,Czechia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,49.2604496354432
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,77.253484574492
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,81.079187544963
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,82.7038241987432
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,83.809378912227
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,77.9656968065859
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,76.6188414195566
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,76.0590859587592
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,75.9886830599554
+DEU,Germany,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,76.5815039050479
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,144.062236896793
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,147.482098497207
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,143.406000566119
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,155.229321090433
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,163.53675512979
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,161.898678914292
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,161.960223775062
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,162.056089653455
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,167.059346282627
+DNK,Denmark,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,170.482608410684
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,175.369046333667
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,172.855368328695
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,168.646107771494
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,165.770479063642
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,168.289138886855
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,152.662380116418
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,146.738413097194
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,144.911108947653
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,144.620405942988
+Z4,East Asia & Pacific,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,141.780204544616
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,42.2251671701619
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,37.8932088281015
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,40.3169550462509
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,42.485106650713
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,51.3281676151991
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,55.1313291062776
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,48.4842763188516
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,50.6561438192024
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,54.2241087218593
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,55.1805596765705
+7E,Europe & Central Asia (excluding high income),FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,54.2620415939895
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,25.8412480093151
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,27.5692279729149
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,29.2578215393463
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,30.847002116672
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,28.2307543894278
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,25.7894742547866
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,22.8487308972762
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,24.2952790707642
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,27.0698246737254
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,34.1348626252639
+EGY,Egypt,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,26.316393760305
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,77.1302223099816
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,79.5888488482869
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,84.8517966596561
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,88.8957461983539
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,93.5602639819493
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,84.8853966524643
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,85.6101672676237
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,86.8224525516456
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,87.8934383182707
+XC,Euro area,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,88.8686889093578
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,60.5354220304166
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,57.661097453773
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,57.2271887161449
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,59.2942307857999
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,62.4674951324135
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,58.2395451990957
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,60.7637234103393
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,62.8595377411996
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,68.4124027630138
+EST,Estonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,67.7220402662715
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,92.0244354023472
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,93.2129448178605
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,96.1977943524903
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,100.140293611616
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,101.738251257472
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,95.9193855390369
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,94.8815247622949
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,94.0317570514361
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,94.7843702628907
+FIN,Finland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,94.9850612773084
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,107.58266062477
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,112.567354839828
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,119.290366998126
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,120.721909947613
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,125.397439701102
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,106.913030586051
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,104.624051971951
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,101.617830234188
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,97.4904687619857
+FRA,France,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,94.9454202268228
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,112.372018963535
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,117.978361754605
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,126.126397693252
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,136.161594591011
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,145.572075379344
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,131.443065370417
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,132.783359788981
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,132.333248459152
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,131.480106047871
+GB,United Kingdom,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,130.08273790259
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,222.646910714832
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,230.186144398167
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,248.791238456868
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,264.446535396853
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,259.183988203515
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,258.902841699638
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,236.740071570624
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,219.908123250485
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,223.371866412043
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,214.300178832553
+HKG,Hong Kong,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,207.899328185199
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,32.3662527124233
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,32.9059997220089
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,36.0420465985177
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,38.4125853084098
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,37.6296063212563
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,33.1721052698328
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,32.2649787904592
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,32.3908602743309
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,33.3191543197899
+HUN,Hungary,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,35.0976712570947
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,36.2832983305564
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,36.3924067095141
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,36.0129512588691
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,35.2884329632689
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,36.9908270556254
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,38.6795390891453
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,38.3726939516609
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,38.8054496665639
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,38.7323495613041
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,39.4024246939414
+IDN,Indonesia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,39.1187982955119
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,44.0250903358104
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,41.6079694330613
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,40.8940758962907
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,38.1859763563586
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,36.8920885102897
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,40.7867848551821
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,38.73794497616
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,38.8975254010362
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,38.1707138624147
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,38.2036507912231
+IND,India,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,51.8675240772049
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,23.7845375555383
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,25.2225553670442
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,25.4419666716094
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,26.4830620089049
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,32.3402464273232
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,36.0552722551197
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,39.7179106627463
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,42.6227340344542
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,47.386841437796
+IRL,Ireland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,51.2657972598874
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,89.24179373685
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,91.0796731043812
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,88.2870435093308
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,93.0314826719705
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,99.5228207903758
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,98.409254247691
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,87.7115547810861
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,89.4921756721559
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,85.6751270718392
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,83.0289019358564
+ISL,Iceland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,86.3304492544149
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,72.4743806692902
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,69.5099804468565
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,69.3907873036217
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,70.1452401316966
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,69.2009240511496
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,67.9389454861554
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,64.6830724126458
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,65.6306954870958
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,64.8424704014193
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,64.9008451275146
+ISR,Israel,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,65.8537521095593
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,60.3040047752275
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,63.1228344360625
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,69.5868608578087
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,76.0051221503914
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,82.6528242104143
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,73.4404069738438
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,76.4482228153834
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,80.4167170633531
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,84.4917347012215
+ITA,Italy,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,86.9158529570859
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,27.707917493475
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,27.2796795779653
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,26.0459503517965
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,25.0218936908866
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,26.0102223624021
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,25.6352310952022
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,24.2664786023711
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,25.9325339763811
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,29.1875977429896
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,33.0302298204433
+KAZ,Kazakhstan,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,37.7291069327005
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,31.7980848696513
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,31.2584163915549
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,31.1231240199267
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,32.1498074208935
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,30.8320287701597
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,31.1986897673001
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,33.1505993031106
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,35.5710732134397
+KEN,Kenya,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,36.6993293508397
+KWT,Kuwait,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,4.92218063765765
+KWT,Kuwait,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,91.9570581282983
+KWT,Kuwait,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,90.6280713315415
+KWT,Kuwait,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,98.699107218372
+KWT,Kuwait,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,105.186812834562
+KWT,Kuwait,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,98.5107903934076
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,52.5698802412142
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,51.8604798179062
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,50.5783652498004
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,50.6949710913738
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,51.362906289512
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,54.7220777639645
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,50.7631093685134
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,52.5317083710413
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,48.088701989227
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,48.1277930532965
+ZJ,Latin America & Caribbean,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,48.56201533606
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,35.7017195575053
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,34.144285339924
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,35.8983246032323
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,37.1827298404879
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,37.0340108299265
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,38.7394336544601
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,39.993553498832
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,40.9797374311557
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,42.7658484020997
+LTU,Lithuania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,41.452200938262
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,29.3267409745245
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,28.5636863670335
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,30.9985884793983
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,32.452830258812
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,34.7313232736821
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,35.718874565601
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,37.9065537383829
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,43.6866052240662
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,48.3668701185648
+LVA,Latvia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,49.9910230947156
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,117.042836331452
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,129.630265117215
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,146.669253120379
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,287.359828906794
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,232.523915658475
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,269.837324968806
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,119.791555781742
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,113.85829727128
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,113.628459884464
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,117.673690461951
+MAC,Macao,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,108.511704087234
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,77.7635533817471
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,80.504808579487
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,87.5362177555406
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,86.0589211866219
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,90.9314449752962
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,81.4748595489142
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,78.9568101792168
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,80.1940481650889
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,80.2299496773881
+MAR,Morocco,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,78.3933979966934
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,35.5021122487568
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,35.0748199517549
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,33.2256099210698
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,34.2487696122269
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,35.0570605465604
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,36.9325897654775
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,35.5851864842603
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,33.6152178109833
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,34.3431256738601
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,32.9508423866166
+MEX,Mexico,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,30.8304978690131
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,56.3082893858424
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,53.9235256635379
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,52.0359306568315
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,54.2953220350027
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,55.501013341123
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,55.7466286882264
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,51.2679656532734
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,50.2444525582772
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,49.8844792422858
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,48.9780058468049
+MKD,North Macedonia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,52.0320364694667
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,27.6369045784357
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,28.2470648266342
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,28.3907975911599
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,30.2072416762467
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,30.6152913646897
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,26.6273662546117
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,26.6002936940107
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,30.5858402173548
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,38.9519954274054
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,35.8058915813759
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,45.2736633073804
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,42.3835125156477
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,47.1553948607428
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,52.6094666497158
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,60.5589962890752
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,49.5434613539033
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,50.2326678244513
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,49.451205781969
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,49.4949222460444
+MNE,Montenegro,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,50.9166352865446
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,117.938077066737
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,116.107410807392
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,117.099430029325
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,113.070470558095
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,127.260894609567
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,133.816995520751
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,120.706946299114
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,120.276311883907
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,117.167568374282
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,121.979820601963
+MYS,Malaysia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,123.10362963114
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,82.3320940898509
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,85.4757445009347
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,88.8195045380451
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,93.8807694464696
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,100.352006153371
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,98.6368462471995
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,103.705449062777
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,109.26176749092
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,112.688166070747
+NLD,Netherlands,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,110.135230807738
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,124.389621734823
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,122.547913892885
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,106.520483872462
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,132.758587980699
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,157.281621104093
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,143.92944148092
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,137.85248031888
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,140.397520875081
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,140.308909282125
+NOR,Norway,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,133.532555694519
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,143.378735977163
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,141.898489610576
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,140.574368180893
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,145.993959609911
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,155.696811699705
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,159.302765545419
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,155.331008762031
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,153.340048561597
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,153.218887969056
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,154.878394126531
+NZL,New Zealand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,152.203582210633
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,63.2077225919943
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,59.7528169989934
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,55.7897704553203
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,68.18634950316
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,76.5893899420196
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,65.1353364973981
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,61.0721758896089
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,65.9487621150617
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,66.6702330425451
+OMN,Oman,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,58.1721127566142
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,52.1093952249199
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,49.8449977717705
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,48.3110407107995
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,48.8730299164324
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,49.9413249106511
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,52.0356914003601
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,47.9736686643137
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,47.5627907969006
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,45.6051977878358
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,42.8645179928199
+PHL,Philippines,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,39.9037835751424
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,33.5857900188097
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,34.7075227346327
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,39.3159295032007
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,45.7278891219221
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,49.2665185159479
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,50.2277295457207
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,51.8969895049653
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,52.27429793934
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,54.3456987288045
+POL,Poland,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,53.314886900933
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,126.754580015982
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,120.965896493385
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,118.075783234072
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,101.083984278189
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,123.316618339598
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,138.857842947295
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,100.636146762775
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,80.4368398170897
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,80.0817007882657
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,79.7605885769573
+QAT,Qatar,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,70.8424801221283
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,22.0718036114915
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,22.7281195412098
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,23.2502304421426
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,25.2220369814974
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,26.4890320985714
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,25.8547218167581
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,24.71556311196
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,25.6917391714929
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,26.6684604630278
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,28.5586243050561
+ROU,Romania,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,29.9038145680168
+RUS,Russia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,54.6422447762479
+RUS,Russia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,59.5836264990744
+RUS,Russia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,52.5614289246344
+RUS,Russia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,51.2433106717876
+RUS,Russia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,52.0765975053134
+RUS,Russia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,53.1024738337766
+RUS,Russia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,55.9520226893608
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,43.5359475018476
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,41.5118785770447
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,41.0734353179942
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,38.9145368186969
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,37.8475531358467
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,41.1421997214324
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,39.4099403727697
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,39.6371300627299
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,38.8532956425947
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,38.5857327622262
+8S,South Asia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,50.8279903711443
+SAU,Saudi Arabia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,50.1375935809361
+SAU,Saudi Arabia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,54.375771847036
+SAU,Saudi Arabia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,52.7601798097453
+SGP,Singapore,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,128.43285830434
+SGP,Singapore,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,119.256588972207
+SGP,Singapore,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,117.439858431353
+SGP,Singapore,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,120.442638051885
+SGP,Singapore,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,123.054693783234
+SGP,Singapore,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,122.421353845761
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,35.3619044689385
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,32.6365244902661
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,33.044281917872
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,38.3866557415795
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,41.4324145562729
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,43.4490578103864
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,40.1665718331813
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,39.7209777742175
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,38.7133440067721
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,39.4038438717395
+SRB,Serbia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,39.02912480491
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,29.4288149619762
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,31.509530891902
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,32.8990929007304
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,34.4255457678831
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,39.8085747124212
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,43.438105783511
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,41.8885439640977
+ZG,Sub-Saharan Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,41.1027671073151
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,125.28961467527
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,129.136765656002
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,136.077652643424
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,136.797864800213
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,138.459181444506
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,131.822474370602
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,133.266789972115
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,132.715906095455
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,129.172366333007
+SWE,Sweden,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,127.51740985919
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,143.08365214331
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,146.295079842162
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,153.81071706352
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,156.437761251145
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,164.142023585507
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,160.17075930508
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,143.369163383068
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,144.088791675771
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,144.640307265206
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,146.223949449025
+THA,Thailand,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,149.373253475137
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,57.6858342508575
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,60.6117249735149
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,62.7305652264979
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,66.0067667517737
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,64.667534646183
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,67.6567184648519
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,59.2903583224447
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,63.5224389825305
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,64.7537285373031
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,62.2469554675417
+TUN,Tunisia,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,60.1365541399108
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,45.7827602523781
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,42.9671022144841
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,48.7952169007544
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,53.4262221477913
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,70.9983608541485
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,75.2676019236764
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,64.2557519386267
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,66.6976668187438
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,70.0844027288208
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,69.2826364676667
+TUR,Türkiye,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,66.3898521051604
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,14.3001761811715
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,14.8125509462498
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,15.0891724993298
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,14.7869665338727
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,14.2204016385665
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,13.8050637116228
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,13.6392294214659
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,13.4819167027351
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,13.6400887820262
+UGA,Uganda,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,13.7686115419745
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2025,201.266130729677
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,195.875075677875
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,191.075390105862
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,187.087355429321
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,219.125940110191
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,217.264343389463
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,194.735258917444
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,183.054001756212
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,194.090996653847
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,186.327051044306
+USA,United States,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,183.632163440252
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,124.961478822546
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,124.282898747665
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,115.525349937741
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,108.031900933361
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,105.275984683547
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,103.972032257471
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,98.8589607655139
+VNM,Vietnam,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,90.399227327709
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,140.320450889154
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,135.970794209535
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,134.425544469509
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,141.763457285887
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,144.753092059914
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,129.285560145866
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,124.755658006436
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,125.424111815096
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,124.550892984595
+1W,World,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,123.111922153077
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2024,89.4476360173443
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2023,89.7117995863871
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2022,91.5697287634873
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2021,93.1963897397387
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2020,109.054691372725
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2019,117.185556861489
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2018,118.380857963487
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2017,127.030283858454
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2016,124.360496111764
+ZAF,South Africa,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),2015,127.203244242731
 ARE,United Arab Emirates,LP.LPI.OVRL.XQ,"Logistics Performance Index, overall",2022,4
 ARE,United Arab Emirates,LP.LPI.OVRL.XQ,"Logistics Performance Index, overall",2018,3.96
 ARE,United Arab Emirates,LP.LPI.OVRL.XQ,"Logistics Performance Index, overall",2016,3.941767

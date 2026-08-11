@@ -1,18 +1,15 @@
-Run started 2026-08-10T06:50:37.595504Z
+Run started 2026-08-11T06:13:39.693528Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 305 rows
-  WB retry 1 FR.INR.LEND: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 FR.INR.LEND: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Lending interest rate (%): 305 rows
-  WB retry 1 NY.GDP.DEFL.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
-[WorldBank] Manufacturing, value added (annual % growth): 0 rows
+[WorldBank] Manufacturing, value added (annual % growth): 630 rows
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
 [WorldBank] Gross capital formation (% of GDP): 690 rows
-[WorldBank] Domestic credit to private sector (% of GDP): 0 rows
+[WorldBank] Domestic credit to private sector (% of GDP): 618 rows
 [WorldBank] Logistics Performance Index, overall: 185 rows
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
 [DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
@@ -35,4 +32,4 @@ Run started 2026-08-10T06:50:37.595504Z
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=10144 rows  periodic=59960 rows
+DONE  annual=11392 rows  periodic=59960 rows
