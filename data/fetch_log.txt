@@ -1,12 +1,14 @@
-Run started 2026-08-12T06:52:31.787581Z
+Run started 2026-08-13T06:56:12.236886Z
 [WorldBank] GDP growth (annual %): 703 rows
+  WB retry 1 FP.CPI.TOTL.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
-[WorldBank] Real interest rate (%): 305 rows
+[WorldBank] Real interest rate (%): 0 rows
 [WorldBank] Lending interest rate (%): 305 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
+  WB retry 1 NV.IND.MANF.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
 [WorldBank] Gross capital formation (% of GDP): 690 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 618 rows
@@ -26,10 +28,10 @@ Run started 2026-08-12T06:52:31.787581Z
 [DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [WorldBank GEM] CPI inflation, % YoY: 6717 rows
 [WorldBank GEM] Industrial Production Index: 6116 rows
-[WorldBank GEM] Merchandise Exports (USD, NSA): 0 rows
+[WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
 [WorldBank GEM] Merchandise Imports (USD, NSA): 7001 rows
 [WorldBank GEM] Retail Sales Volume Index (SA): 2923 rows
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
-[WorldBank GEM] Total International Reserves (USD millions): 0 rows
-DONE  annual=11392 rows  periodic=46197 rows
+[WorldBank GEM] Total International Reserves (USD millions): 6676 rows
+DONE  annual=11087 rows  periodic=59960 rows
