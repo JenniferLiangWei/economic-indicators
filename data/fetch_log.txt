@@ -1,7 +1,8 @@
-Run started 2026-08-15T05:50:34.326103Z
+Run started 2026-08-16T05:52:57.693966Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
-[WorldBank] Real interest rate (%): 305 rows
+  WB retry 1 FR.INR.RINR: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+[WorldBank] Real interest rate (%): 0 rows
 [WorldBank] Lending interest rate (%): 305 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
@@ -29,7 +30,7 @@ Run started 2026-08-15T05:50:34.326103Z
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
 [WorldBank GEM] Merchandise Imports (USD, NSA): 7001 rows
 [WorldBank GEM] Retail Sales Volume Index (SA): 2923 rows
-[WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
+[WorldBank GEM] Real Effective Exchange Rate Index: 0 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=11392 rows  periodic=59960 rows
+DONE  annual=11087 rows  periodic=55180 rows
