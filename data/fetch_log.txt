@@ -1,8 +1,7 @@
-Run started 2026-08-16T05:52:57.693966Z
+Run started 2026-08-17T05:59:23.026685Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
-  WB retry 1 FR.INR.RINR: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-[WorldBank] Real interest rate (%): 0 rows
+[WorldBank] Real interest rate (%): 305 rows
 [WorldBank] Lending interest rate (%): 305 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
@@ -26,11 +25,15 @@ Run started 2026-08-16T05:52:57.693966Z
 [DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [WorldBank GEM] CPI inflation, % YoY: 6717 rows
-[WorldBank GEM] Industrial Production Index: 6116 rows
+  GEM retry 1 IPTOTNSKD: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+[WorldBank GEM] Industrial Production Index: 0 rows
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7087 rows
+  GEM retry 1 DMGSRMRCHNSCD: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+  GEM retry 2 DMGSRMRCHNSCD: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank GEM] Merchandise Imports (USD, NSA): 7001 rows
+  GEM retry 1 RETSALESSA: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank GEM] Retail Sales Volume Index (SA): 2923 rows
-[WorldBank GEM] Real Effective Exchange Rate Index: 0 rows
+[WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 3804 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6676 rows
-DONE  annual=11087 rows  periodic=55180 rows
+DONE  annual=11392 rows  periodic=53844 rows
