@@ -11106,655 +11106,91 @@ ROU,Romania,ROU.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),
 ROU,Romania,ROU.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M02,2026,Feb,01.02.2026,Feb'26,99.84846
 ROU,Romania,ROU.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M03,2026,Mar,01.03.2026,Mar'26,99.67089
 ROU,Romania,ROU.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M04,2026,Apr,01.04.2026,Apr'26,99.47552
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M01,2015,Jan,01.01.2015,Jan'15,96.0648
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M02,2015,Feb,01.02.2015,Feb'15,95.40998
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M03,2015,Mar,01.03.2015,Mar'15,95.60886
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M04,2015,Apr,01.04.2015,Apr'15,96.25445
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M05,2015,May,01.05.2015,May'15,96.87176
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M06,2015,Jun,01.06.2015,Jun'15,97.14113
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M07,2015,Jul,01.07.2015,Jul'15,97.14985
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M08,2015,Aug,01.08.2015,Aug'15,97.02624
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M09,2015,Sep,01.09.2015,Sep'15,96.83436
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M10,2015,Oct,01.10.2015,Oct'15,96.6011
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M11,2015,Nov,01.11.2015,Nov'15,96.31499
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M12,2015,Dec,01.12.2015,Dec'15,95.96626
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M01,2016,Jan,01.01.2016,Jan'16,95.64001
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M02,2016,Feb,01.02.2016,Feb'16,95.47861
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M03,2016,Mar,01.03.2016,Mar'16,95.62182
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M04,2016,Apr,01.04.2016,Apr'16,95.98201
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M05,2016,May,01.05.2016,May'16,96.48714
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M06,2016,Jun,01.06.2016,Jun'16,97.10673
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M07,2016,Jul,01.07.2016,Jul'16,97.73293
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M08,2016,Aug,01.08.2016,Aug'16,98.23678
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M09,2016,Sep,01.09.2016,Sep'16,98.51783
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M10,2016,Oct,01.10.2016,Oct'16,98.67612
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M11,2016,Nov,01.11.2016,Nov'16,98.82768
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M12,2016,Dec,01.12.2016,Dec'16,99.04282
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M01,2017,Jan,01.01.2017,Jan'17,99.29105
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M02,2017,Feb,01.02.2017,Feb'17,99.51566
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M03,2017,Mar,01.03.2017,Mar'17,99.67509
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M04,2017,Apr,01.04.2017,Apr'17,99.80793
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M05,2017,May,01.05.2017,May'17,99.9701
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M06,2017,Jun,01.06.2017,Jun'17,100.1985
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M07,2017,Jul,01.07.2017,Jul'17,100.4455
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M08,2017,Aug,01.08.2017,Aug'17,100.6399
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M09,2017,Sep,01.09.2017,Sep'17,100.7301
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M10,2017,Oct,01.10.2017,Oct'17,100.7786
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M11,2017,Nov,01.11.2017,Nov'17,100.8726
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M12,2017,Dec,01.12.2017,Dec'17,101.0748
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M01,2018,Jan,01.01.2018,Jan'18,101.3297
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M02,2018,Feb,01.02.2018,Feb'18,101.5514
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M03,2018,Mar,01.03.2018,Mar'18,101.6575
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M04,2018,Apr,01.04.2018,Apr'18,101.638
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M05,2018,May,01.05.2018,May'18,101.4486
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M06,2018,Jun,01.06.2018,Jun'18,101.0302
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M07,2018,Jul,01.07.2018,Jul'18,100.4986
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M08,2018,Aug,01.08.2018,Aug'18,99.9834
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M09,2018,Sep,01.09.2018,Sep'18,99.58027
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M10,2018,Oct,01.10.2018,Oct'18,99.28705
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M11,2018,Nov,01.11.2018,Nov'18,99.11713
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M12,2018,Dec,01.12.2018,Dec'18,99.10308
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M01,2019,Jan,01.01.2019,Jan'19,99.17686
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M02,2019,Feb,01.02.2019,Feb'19,99.28049
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M03,2019,Mar,01.03.2019,Mar'19,99.38877
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M04,2019,Apr,01.04.2019,Apr'19,99.5022
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M05,2019,May,01.05.2019,May'19,99.63525
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M06,2019,Jun,01.06.2019,Jun'19,99.7995
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M07,2019,Jul,01.07.2019,Jul'19,99.96712
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M08,2019,Aug,01.08.2019,Aug'19,100.0997
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M09,2019,Sep,01.09.2019,Sep'19,100.1739
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M10,2019,Oct,01.10.2019,Oct'19,100.2415
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M11,2019,Nov,01.11.2019,Nov'19,100.3557
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M12,2019,Dec,01.12.2019,Dec'19,100.5032
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M01,2020,Jan,01.01.2020,Jan'20,100.4905
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M02,2020,Feb,01.02.2020,Feb'20,99.98878
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M03,2020,Mar,01.03.2020,Mar'20,98.74014
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M04,2020,Apr,01.04.2020,Apr'20,97.25233
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M05,2020,May,01.05.2020,May'20,96.21296
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M06,2020,Jun,01.06.2020,Jun'20,96.14293
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M07,2020,Jul,01.07.2020,Jul'20,96.60137
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M08,2020,Aug,01.08.2020,Aug'20,97.02808
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M09,2020,Sep,01.09.2020,Sep'20,97.05743
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M10,2020,Oct,01.10.2020,Oct'20,96.86408
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M11,2020,Nov,01.11.2020,Nov'20,96.74741
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M12,2020,Dec,01.12.2020,Dec'20,96.93866
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M01,2021,Jan,01.01.2021,Jan'21,97.3315
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M02,2021,Feb,01.02.2021,Feb'21,97.77339
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M03,2021,Mar,01.03.2021,Mar'21,98.15559
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M04,2021,Apr,01.04.2021,Apr'21,98.45393
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M05,2021,May,01.05.2021,May'21,98.63631
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M06,2021,Jun,01.06.2021,Jun'21,98.65394
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M07,2021,Jul,01.07.2021,Jul'21,98.54865
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M08,2021,Aug,01.08.2021,Aug'21,98.33872
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M09,2021,Sep,01.09.2021,Sep'21,98.02757
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M10,2021,Oct,01.10.2021,Oct'21,97.71721
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M11,2021,Nov,01.11.2021,Nov'21,97.53313
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M12,2021,Dec,01.12.2021,Dec'21,97.54852
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M01,2022,Jan,01.01.2022,Jan'22,97.58216
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M02,2022,Feb,01.02.2022,Feb'22,97.37611
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M03,2022,Mar,01.03.2022,Mar'22,96.75514
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M04,2022,Apr,01.04.2022,Apr'22,96.02595
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M05,2022,May,01.05.2022,May'22,95.63255
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M06,2022,Jun,01.06.2022,Jun'22,95.92011
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M07,2022,Jul,01.07.2022,Jul'22,96.56277
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M08,2022,Aug,01.08.2022,Aug'22,97.14505
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M09,2022,Sep,01.09.2022,Sep'22,97.38813
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M10,2022,Oct,01.10.2022,Oct'22,97.43649
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M11,2022,Nov,01.11.2022,Nov'22,97.51826
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M12,2022,Dec,01.12.2022,Dec'22,97.80036
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M01,2023,Jan,01.01.2023,Jan'23,98.21015
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M02,2023,Feb,01.02.2023,Feb'23,98.63604
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M03,2023,Mar,01.03.2023,Mar'23,99.00051
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M04,2023,Apr,01.04.2023,Apr'23,99.31689
-RUS,Russia,RUS.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M05,2023,May,01.05.2023,May'23,99.61455
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M01,2015,Jan,01.01.2015,Jan'15,100.1412
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M02,2015,Feb,01.02.2015,Feb'15,100.1741
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M03,2015,Mar,01.03.2015,Mar'15,100.2487
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M04,2015,Apr,01.04.2015,Apr'15,100.2709
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M05,2015,May,01.05.2015,May'15,100.3142
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M06,2015,Jun,01.06.2015,Jun'15,100.3129
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M07,2015,Jul,01.07.2015,Jul'15,100.2775
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M08,2015,Aug,01.08.2015,Aug'15,100.1411
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M09,2015,Sep,01.09.2015,Sep'15,99.84611
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M10,2015,Oct,01.10.2015,Oct'15,99.58463
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M11,2015,Nov,01.11.2015,Nov'15,99.49747
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M12,2015,Dec,01.12.2015,Dec'15,99.65088
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M01,2016,Jan,01.01.2016,Jan'16,99.81281
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M02,2016,Feb,01.02.2016,Feb'16,99.94707
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M03,2016,Mar,01.03.2016,Mar'16,100.0773
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M04,2016,Apr,01.04.2016,Apr'16,100.0748
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M05,2016,May,01.05.2016,May'16,100.0209
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M06,2016,Jun,01.06.2016,Jun'16,99.97585
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M07,2016,Jul,01.07.2016,Jul'16,99.95508
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M08,2016,Aug,01.08.2016,Aug'16,100.0522
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M09,2016,Sep,01.09.2016,Sep'16,100.3042
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M10,2016,Oct,01.10.2016,Oct'16,100.5168
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M11,2016,Nov,01.11.2016,Nov'16,100.6078
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M12,2016,Dec,01.12.2016,Dec'16,100.5762
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M01,2017,Jan,01.01.2017,Jan'17,100.5663
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M02,2017,Feb,01.02.2017,Feb'17,100.6147
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M03,2017,Mar,01.03.2017,Mar'17,100.7116
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M04,2017,Apr,01.04.2017,Apr'17,100.7786
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M05,2017,May,01.05.2017,May'17,100.7787
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M06,2017,Jun,01.06.2017,Jun'17,100.6238
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M07,2017,Jul,01.07.2017,Jul'17,100.4852
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M08,2017,Aug,01.08.2017,Aug'17,100.4046
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M09,2017,Sep,01.09.2017,Sep'17,100.4329
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M10,2017,Oct,01.10.2017,Oct'17,100.5808
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M11,2017,Nov,01.11.2017,Nov'17,100.7133
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M12,2017,Dec,01.12.2017,Dec'17,100.7381
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M01,2018,Jan,01.01.2018,Jan'18,100.7324
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M02,2018,Feb,01.02.2018,Feb'18,100.6072
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M03,2018,Mar,01.03.2018,Mar'18,100.5016
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M04,2018,Apr,01.04.2018,Apr'18,100.3897
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M05,2018,May,01.05.2018,May'18,100.2645
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M06,2018,Jun,01.06.2018,Jun'18,100.0937
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M07,2018,Jul,01.07.2018,Jul'18,100.1006
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M08,2018,Aug,01.08.2018,Aug'18,100.2615
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M09,2018,Sep,01.09.2018,Sep'18,100.2989
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M10,2018,Oct,01.10.2018,Oct'18,100.1164
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M11,2018,Nov,01.11.2018,Nov'18,99.94218
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M12,2018,Dec,01.12.2018,Dec'18,99.7606
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M01,2019,Jan,01.01.2019,Jan'19,99.64195
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M02,2019,Feb,01.02.2019,Feb'19,99.66487
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M03,2019,Mar,01.03.2019,Mar'19,99.80198
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M04,2019,Apr,01.04.2019,Apr'19,99.84512
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M05,2019,May,01.05.2019,May'19,99.70859
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M06,2019,Jun,01.06.2019,Jun'19,99.64494
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M07,2019,Jul,01.07.2019,Jul'19,99.65639
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M08,2019,Aug,01.08.2019,Aug'19,99.5325
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M09,2019,Sep,01.09.2019,Sep'19,99.40857
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M10,2019,Oct,01.10.2019,Oct'19,99.42329
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M11,2019,Nov,01.11.2019,Nov'19,99.48013
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M12,2019,Dec,01.12.2019,Dec'19,99.56927
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M01,2020,Jan,01.01.2020,Jan'20,99.55534
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M02,2020,Feb,01.02.2020,Feb'20,99.45094
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M03,2020,Mar,01.03.2020,Mar'20,99.14568
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M04,2020,Apr,01.04.2020,Apr'20,98.84718
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M05,2020,May,01.05.2020,May'20,98.89436
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M06,2020,Jun,01.06.2020,Jun'20,99.35653
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M07,2020,Jul,01.07.2020,Jul'20,99.8568
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M08,2020,Aug,01.08.2020,Aug'20,100.2494
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M09,2020,Sep,01.09.2020,Sep'20,100.5081
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M10,2020,Oct,01.10.2020,Oct'20,100.5664
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M11,2020,Nov,01.11.2020,Nov'20,100.5511
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M12,2020,Dec,01.12.2020,Dec'20,100.7759
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M01,2021,Jan,01.01.2021,Jan'21,101.109
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M02,2021,Feb,01.02.2021,Feb'21,101.4736
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M03,2021,Mar,01.03.2021,Mar'21,101.7478
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M04,2021,Apr,01.04.2021,Apr'21,102.0736
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M05,2021,May,01.05.2021,May'21,102.3756
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M06,2021,Jun,01.06.2021,Jun'21,102.4231
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M07,2021,Jul,01.07.2021,Jul'21,102.3316
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M08,2021,Aug,01.08.2021,Aug'21,102.1528
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M09,2021,Sep,01.09.2021,Sep'21,101.9136
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M10,2021,Oct,01.10.2021,Oct'21,101.5883
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M11,2021,Nov,01.11.2021,Nov'21,101.1819
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M12,2021,Dec,01.12.2021,Dec'21,100.7193
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M01,2022,Jan,01.01.2022,Jan'22,100.0297
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M02,2022,Feb,01.02.2022,Feb'22,99.26102
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M03,2022,Mar,01.03.2022,Mar'22,98.27459
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M04,2022,Apr,01.04.2022,Apr'22,97.56924
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M05,2022,May,01.05.2022,May'22,96.88493
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M06,2022,Jun,01.06.2022,Jun'22,96.16711
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M07,2022,Jul,01.07.2022,Jul'22,95.3445
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M08,2022,Aug,01.08.2022,Aug'22,94.60662
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M09,2022,Sep,01.09.2022,Sep'22,93.90556
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M10,2022,Oct,01.10.2022,Oct'22,93.66787
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M11,2022,Nov,01.11.2022,Nov'22,93.88992
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M12,2022,Dec,01.12.2022,Dec'22,94.14245
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M01,2023,Jan,01.01.2023,Jan'23,94.43628
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M02,2023,Feb,01.02.2023,Feb'23,94.84034
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M03,2023,Mar,01.03.2023,Mar'23,95.26553
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M04,2023,Apr,01.04.2023,Apr'23,95.81168
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M05,2023,May,01.05.2023,May'23,96.29071
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M06,2023,Jun,01.06.2023,Jun'23,96.48322
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M07,2023,Jul,01.07.2023,Jul'23,96.30701
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M08,2023,Aug,01.08.2023,Aug'23,95.93546
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M09,2023,Sep,01.09.2023,Sep'23,95.71458
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M10,2023,Oct,01.10.2023,Oct'23,95.83542
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M11,2023,Nov,01.11.2023,Nov'23,96.3217
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M12,2023,Dec,01.12.2023,Dec'23,97.0645
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M01,2024,Jan,01.01.2024,Jan'24,97.87981
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M02,2024,Feb,01.02.2024,Feb'24,98.54275
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M03,2024,Mar,01.03.2024,Mar'24,99.06001
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M04,2024,Apr,01.04.2024,Apr'24,99.47319
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M05,2024,May,01.05.2024,May'24,99.88538
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M06,2024,Jun,01.06.2024,Jun'24,100.1775
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M07,2024,Jul,01.07.2024,Jul'24,100.3472
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M08,2024,Aug,01.08.2024,Aug'24,100.5016
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M09,2024,Sep,01.09.2024,Sep'24,100.6359
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M10,2024,Oct,01.10.2024,Oct'24,100.6602
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M11,2024,Nov,01.11.2024,Nov'24,100.602
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M12,2024,Dec,01.12.2024,Dec'24,100.3485
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M01,2025,Jan,01.01.2025,Jan'25,100.0162
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M02,2025,Feb,01.02.2025,Feb'25,99.32286
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M03,2025,Mar,01.03.2025,Mar'25,98.38706
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M04,2025,Apr,01.04.2025,Apr'25,97.69563
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M05,2025,May,01.05.2025,May'25,97.71875
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M06,2025,Jun,01.06.2025,Jun'25,98.09924
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M07,2025,Jul,01.07.2025,Jul'25,98.50998
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M08,2025,Aug,01.08.2025,Aug'25,98.79138
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M09,2025,Sep,01.09.2025,Sep'25,99.08466
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M10,2025,Oct,01.10.2025,Oct'25,99.3431
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M11,2025,Nov,01.11.2025,Nov'25,99.5051
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M12,2025,Dec,01.12.2025,Dec'25,99.59822
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M01,2026,Jan,01.01.2026,Jan'26,99.65498
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M02,2026,Feb,01.02.2026,Feb'26,99.51607
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M03,2026,Mar,01.03.2026,Mar'26,99.18802
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M04,2026,Apr,01.04.2026,Apr'26,98.8526
-SWE,Sweden,SWE.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M05,2026,May,01.05.2026,May'26,98.7028
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M01,2015,Jan,01.01.2015,Jan'15,100.6003
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M02,2015,Feb,01.02.2015,Feb'15,100.3206
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M03,2015,Mar,01.03.2015,Mar'15,100.0482
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M04,2015,Apr,01.04.2015,Apr'15,99.9733
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M05,2015,May,01.05.2015,May'15,99.98726
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M06,2015,Jun,01.06.2015,Jun'15,100.0031
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M07,2015,Jul,01.07.2015,Jul'15,99.69592
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M08,2015,Aug,01.08.2015,Aug'15,99.28494
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M09,2015,Sep,01.09.2015,Sep'15,99.28841
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M10,2015,Oct,01.10.2015,Oct'15,100.1058
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M11,2015,Nov,01.11.2015,Nov'15,101.2166
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M12,2015,Dec,01.12.2015,Dec'15,101.6208
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M01,2016,Jan,01.01.2016,Jan'16,101.4602
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M02,2016,Feb,01.02.2016,Feb'16,101.1224
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M03,2016,Mar,01.03.2016,Mar'16,100.9723
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M04,2016,Apr,01.04.2016,Apr'16,101.0144
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M05,2016,May,01.05.2016,May'16,101.0741
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M06,2016,Jun,01.06.2016,Jun'16,101.123
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M07,2016,Jul,01.07.2016,Jul'16,101.2815
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M08,2016,Aug,01.08.2016,Aug'16,101.8
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M09,2016,Sep,01.09.2016,Sep'16,102.0721
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M10,2016,Oct,01.10.2016,Oct'16,101.8959
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M11,2016,Nov,01.11.2016,Nov'16,101.2328
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M12,2016,Dec,01.12.2016,Dec'16,100.537
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M01,2017,Jan,01.01.2017,Jan'17,100.283
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M02,2017,Feb,01.02.2017,Feb'17,100.3727
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M03,2017,Mar,01.03.2017,Mar'17,100.7879
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M04,2017,Apr,01.04.2017,Apr'17,101.2862
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M05,2017,May,01.05.2017,May'17,101.6298
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M06,2017,Jun,01.06.2017,Jun'17,101.6711
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M07,2017,Jul,01.07.2017,Jul'17,101.622
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M08,2017,Aug,01.08.2017,Aug'17,101.4915
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M09,2017,Sep,01.09.2017,Sep'17,101.1652
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M10,2017,Oct,01.10.2017,Oct'17,100.72
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M11,2017,Nov,01.11.2017,Nov'17,100.4436
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M12,2017,Dec,01.12.2017,Dec'17,100.6348
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M01,2018,Jan,01.01.2018,Jan'18,101.1748
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M02,2018,Feb,01.02.2018,Feb'18,101.5194
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M03,2018,Mar,01.03.2018,Mar'18,101.5407
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M04,2018,Apr,01.04.2018,Apr'18,101.3967
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M05,2018,May,01.05.2018,May'18,101.2342
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M06,2018,Jun,01.06.2018,Jun'18,101.0875
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M07,2018,Jul,01.07.2018,Jul'18,100.7332
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M08,2018,Aug,01.08.2018,Aug'18,99.80698
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M09,2018,Sep,01.09.2018,Sep'18,98.61771
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M10,2018,Oct,01.10.2018,Oct'18,97.87705
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M11,2018,Nov,01.11.2018,Nov'18,97.70969
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M12,2018,Dec,01.12.2018,Dec'18,97.688
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M01,2019,Jan,01.01.2019,Jan'19,97.73612
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M02,2019,Feb,01.02.2019,Feb'19,97.81395
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M03,2019,Mar,01.03.2019,Mar'19,97.99184
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M04,2019,Apr,01.04.2019,Apr'19,97.97375
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M05,2019,May,01.05.2019,May'19,97.5639
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M06,2019,Jun,01.06.2019,Jun'19,97.39071
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M07,2019,Jul,01.07.2019,Jul'19,97.2604
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M08,2019,Aug,01.08.2019,Aug'19,97.22021
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M09,2019,Sep,01.09.2019,Sep'19,97.22835
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M10,2019,Oct,01.10.2019,Oct'19,97.43971
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M11,2019,Nov,01.11.2019,Nov'19,97.76806
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M12,2019,Dec,01.12.2019,Dec'19,97.92022
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M01,2020,Jan,01.01.2020,Jan'20,97.92699
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M02,2020,Feb,01.02.2020,Feb'20,97.80694
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M03,2020,Mar,01.03.2020,Mar'20,97.77436
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M04,2020,Apr,01.04.2020,Apr'20,97.80697
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M05,2020,May,01.05.2020,May'20,98.13881
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M06,2020,Jun,01.06.2020,Jun'20,98.30693
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M07,2020,Jul,01.07.2020,Jul'20,98.23132
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M08,2020,Aug,01.08.2020,Aug'20,98.04678
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M09,2020,Sep,01.09.2020,Sep'20,98.05576
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M10,2020,Oct,01.10.2020,Oct'20,98.02288
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M11,2020,Nov,01.11.2020,Nov'20,97.96394
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M12,2020,Dec,01.12.2020,Dec'20,98.14805
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M01,2021,Jan,01.01.2021,Jan'21,98.60419
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M02,2021,Feb,01.02.2021,Feb'21,98.93711
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M03,2021,Mar,01.03.2021,Mar'21,98.8532
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M04,2021,Apr,01.04.2021,Apr'21,98.19592
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M05,2021,May,01.05.2021,May'21,97.70488
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M06,2021,Jun,01.06.2021,Jun'21,97.67825
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M07,2021,Jul,01.07.2021,Jul'21,97.57381
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M08,2021,Aug,01.08.2021,Aug'21,97.38589
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M09,2021,Sep,01.09.2021,Sep'21,97.07468
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M10,2021,Oct,01.10.2021,Oct'21,96.35513
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M11,2021,Nov,01.11.2021,Nov'21,95.46854
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M12,2021,Dec,01.12.2021,Dec'21,95.01212
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M01,2022,Jan,01.01.2022,Jan'22,95.0762
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M02,2022,Feb,01.02.2022,Feb'22,95.02549
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M03,2022,Mar,01.03.2022,Mar'22,94.75465
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M04,2022,Apr,01.04.2022,Apr'22,94.12519
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M05,2022,May,01.05.2022,May'22,93.63536
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M06,2022,Jun,01.06.2022,Jun'22,93.45361
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M07,2022,Jul,01.07.2022,Jul'22,94.00057
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M08,2022,Aug,01.08.2022,Aug'22,94.84177
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M09,2022,Sep,01.09.2022,Sep'22,95.55241
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M10,2022,Oct,01.10.2022,Oct'22,96.16522
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M11,2022,Nov,01.11.2022,Nov'22,96.52115
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M12,2022,Dec,01.12.2022,Dec'22,96.82281
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M01,2023,Jan,01.01.2023,Jan'23,97.40129
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M02,2023,Feb,01.02.2023,Feb'23,98.10758
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M03,2023,Mar,01.03.2023,Mar'23,98.8083
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M04,2023,Apr,01.04.2023,Apr'23,99.72283
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M05,2023,May,01.05.2023,May'23,99.98603
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M06,2023,Jun,01.06.2023,Jun'23,99.00481
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M07,2023,Jul,01.07.2023,Jul'23,97.29976
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M08,2023,Aug,01.08.2023,Aug'23,95.645
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M09,2023,Sep,01.09.2023,Sep'23,95.23867
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M10,2023,Oct,01.10.2023,Oct'23,95.64416
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M11,2023,Nov,01.11.2023,Nov'23,96.27065
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M12,2023,Dec,01.12.2023,Dec'23,96.91895
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M01,2024,Jan,01.01.2024,Jan'24,97.43132
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M02,2024,Feb,01.02.2024,Feb'24,97.62617
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M03,2024,Mar,01.03.2024,Mar'24,97.70646
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M04,2024,Apr,01.04.2024,Apr'24,97.72727
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M05,2024,May,01.05.2024,May'24,97.54618
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M06,2024,Jun,01.06.2024,Jun'24,97.14005
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M07,2024,Jul,01.07.2024,Jul'24,96.7861
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M08,2024,Aug,01.08.2024,Aug'24,96.79288
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M09,2024,Sep,01.09.2024,Sep'24,97.11764
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M10,2024,Oct,01.10.2024,Oct'24,97.51299
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M11,2024,Nov,01.11.2024,Nov'24,97.7546
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M12,2024,Dec,01.12.2024,Dec'24,97.98238
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M01,2025,Jan,01.01.2025,Jan'25,98.21335
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M02,2025,Feb,01.02.2025,Feb'25,98.57424
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M03,2025,Mar,01.03.2025,Mar'25,98.97845
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M04,2025,Apr,01.04.2025,Apr'25,99.10271
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M05,2025,May,01.05.2025,May'25,99.14917
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M06,2025,Jun,01.06.2025,Jun'25,99.10725
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M07,2025,Jul,01.07.2025,Jul'25,98.98347
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M08,2025,Aug,01.08.2025,Aug'25,98.93539
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M09,2025,Sep,01.09.2025,Sep'25,98.90437
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M10,2025,Oct,01.10.2025,Oct'25,98.90913
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M11,2025,Nov,01.11.2025,Nov'25,98.95409
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M12,2025,Dec,01.12.2025,Dec'25,98.93244
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M01,2026,Jan,01.01.2026,Jan'26,99.01091
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M02,2026,Feb,01.02.2026,Feb'26,99.19106
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M03,2026,Mar,01.03.2026,Mar'26,99.29218
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M04,2026,Apr,01.04.2026,Apr'26,99.38492
-TUR,Türkiye,TUR.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M05,2026,May,01.05.2026,May'26,99.4754
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M01,2015,Jan,01.01.2015,Jan'15,101.1672
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M02,2015,Feb,01.02.2015,Feb'15,101.1696
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M03,2015,Mar,01.03.2015,Mar'15,101.0788
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M04,2015,Apr,01.04.2015,Apr'15,101.0273
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M05,2015,May,01.05.2015,May'15,100.9516
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M06,2015,Jun,01.06.2015,Jun'15,100.9648
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M07,2015,Jul,01.07.2015,Jul'15,100.8568
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M08,2015,Aug,01.08.2015,Aug'15,100.6784
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M09,2015,Sep,01.09.2015,Sep'15,100.5177
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M10,2015,Oct,01.10.2015,Oct'15,100.5452
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M11,2015,Nov,01.11.2015,Nov'15,100.6549
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M12,2015,Dec,01.12.2015,Dec'15,100.7463
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M01,2016,Jan,01.01.2016,Jan'16,100.7586
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M02,2016,Feb,01.02.2016,Feb'16,100.7235
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M03,2016,Mar,01.03.2016,Mar'16,100.686
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M04,2016,Apr,01.04.2016,Apr'16,100.7067
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M05,2016,May,01.05.2016,May'16,100.8219
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M06,2016,Jun,01.06.2016,Jun'16,100.8012
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M07,2016,Jul,01.07.2016,Jul'16,100.6631
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M08,2016,Aug,01.08.2016,Aug'16,100.5633
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M09,2016,Sep,01.09.2016,Sep'16,100.5453
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M10,2016,Oct,01.10.2016,Oct'16,100.6177
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M11,2016,Nov,01.11.2016,Nov'16,100.9276
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M12,2016,Dec,01.12.2016,Dec'16,101.2454
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M01,2017,Jan,01.01.2017,Jan'17,101.3849
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M02,2017,Feb,01.02.2017,Feb'17,101.3733
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M03,2017,Mar,01.03.2017,Mar'17,101.3443
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M04,2017,Apr,01.04.2017,Apr'17,101.3062
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M05,2017,May,01.05.2017,May'17,101.2375
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M06,2017,Jun,01.06.2017,Jun'17,101.1362
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M07,2017,Jul,01.07.2017,Jul'17,101.0993
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M08,2017,Aug,01.08.2017,Aug'17,101.1917
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M09,2017,Sep,01.09.2017,Sep'17,101.3063
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M10,2017,Oct,01.10.2017,Oct'17,101.4474
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M11,2017,Nov,01.11.2017,Nov'17,101.4285
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M12,2017,Dec,01.12.2017,Dec'17,101.3507
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M01,2018,Jan,01.01.2018,Jan'18,101.3782
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M02,2018,Feb,01.02.2018,Feb'18,101.5283
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M03,2018,Mar,01.03.2018,Mar'18,101.6215
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M04,2018,Apr,01.04.2018,Apr'18,101.5746
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M05,2018,May,01.05.2018,May'18,101.4955
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M06,2018,Jun,01.06.2018,Jun'18,101.4421
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M07,2018,Jul,01.07.2018,Jul'18,101.4131
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M08,2018,Aug,01.08.2018,Aug'18,101.4235
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M09,2018,Sep,01.09.2018,Sep'18,101.5002
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M10,2018,Oct,01.10.2018,Oct'18,101.4838
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M11,2018,Nov,01.11.2018,Nov'18,101.3833
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M12,2018,Dec,01.12.2018,Dec'18,101.2265
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M01,2019,Jan,01.01.2019,Jan'19,101.0388
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M02,2019,Feb,01.02.2019,Feb'19,101.0886
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M03,2019,Mar,01.03.2019,Mar'19,101.289
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M04,2019,Apr,01.04.2019,Apr'19,101.4359
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M05,2019,May,01.05.2019,May'19,101.5167
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M06,2019,Jun,01.06.2019,Jun'19,101.4305
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M07,2019,Jul,01.07.2019,Jul'19,101.2174
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M08,2019,Aug,01.08.2019,Aug'19,100.9453
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M09,2019,Sep,01.09.2019,Sep'19,100.9453
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M10,2019,Oct,01.10.2019,Oct'19,101.1317
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M11,2019,Nov,01.11.2019,Nov'19,101.3785
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M12,2019,Dec,01.12.2019,Dec'19,101.5878
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M01,2020,Jan,01.01.2020,Jan'20,101.5863
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M02,2020,Feb,01.02.2020,Feb'20,101.1931
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M03,2020,Mar,01.03.2020,Mar'20,100.2762
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M04,2020,Apr,01.04.2020,Apr'20,99.27901
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M05,2020,May,01.05.2020,May'20,98.81964
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M06,2020,Jun,01.06.2020,Jun'20,98.7739
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M07,2020,Jul,01.07.2020,Jul'20,98.78979
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M08,2020,Aug,01.08.2020,Aug'20,98.97519
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M09,2020,Sep,01.09.2020,Sep'20,99.26219
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M10,2020,Oct,01.10.2020,Oct'20,99.39882
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M11,2020,Nov,01.11.2020,Nov'20,99.35923
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M12,2020,Dec,01.12.2020,Dec'20,99.36205
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M01,2021,Jan,01.01.2021,Jan'21,99.36764
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M02,2021,Feb,01.02.2021,Feb'21,99.49587
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M03,2021,Mar,01.03.2021,Mar'21,99.83238
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M04,2021,Apr,01.04.2021,Apr'21,100.0568
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M05,2021,May,01.05.2021,May'21,100.0029
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M06,2021,Jun,01.06.2021,Jun'21,99.81007
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M07,2021,Jul,01.07.2021,Jul'21,99.38001
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M08,2021,Aug,01.08.2021,Aug'21,98.85711
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M09,2021,Sep,01.09.2021,Sep'21,98.5826
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M10,2021,Oct,01.10.2021,Oct'21,98.41112
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M11,2021,Nov,01.11.2021,Nov'21,98.26196
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M12,2021,Dec,01.12.2021,Dec'21,98.16876
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M01,2022,Jan,01.01.2022,Jan'22,97.95276
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M02,2022,Feb,01.02.2022,Feb'22,97.67016
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M03,2022,Mar,01.03.2022,Mar'22,97.45183
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M04,2022,Apr,01.04.2022,Apr'22,97.29897
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M05,2022,May,01.05.2022,May'22,96.92511
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M06,2022,Jun,01.06.2022,Jun'22,96.55093
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M07,2022,Jul,01.07.2022,Jul'22,96.52547
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M08,2022,Aug,01.08.2022,Aug'22,96.77068
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M09,2022,Sep,01.09.2022,Sep'22,96.97288
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M10,2022,Oct,01.10.2022,Oct'22,97.07908
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M11,2022,Nov,01.11.2022,Nov'22,97.13905
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M12,2022,Dec,01.12.2022,Dec'22,97.34296
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M01,2023,Jan,01.01.2023,Jan'23,97.60733
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M02,2023,Feb,01.02.2023,Feb'23,97.71414
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M03,2023,Mar,01.03.2023,Mar'23,97.61092
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M04,2023,Apr,01.04.2023,Apr'23,97.5253
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M05,2023,May,01.05.2023,May'23,97.5259
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M06,2023,Jun,01.06.2023,Jun'23,97.79613
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M07,2023,Jul,01.07.2023,Jul'23,98.1134
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M08,2023,Aug,01.08.2023,Aug'23,98.15441
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M09,2023,Sep,01.09.2023,Sep'23,97.98577
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M10,2023,Oct,01.10.2023,Oct'23,97.79061
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M11,2023,Nov,01.11.2023,Nov'23,97.86013
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M12,2023,Dec,01.12.2023,Dec'23,98.34606
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M01,2024,Jan,01.01.2024,Jan'24,98.91445
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M02,2024,Feb,01.02.2024,Feb'24,99.18942
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M03,2024,Mar,01.03.2024,Mar'24,99.21404
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M04,2024,Apr,01.04.2024,Apr'24,98.94289
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M05,2024,May,01.05.2024,May'24,98.49426
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M06,2024,Jun,01.06.2024,Jun'24,98.17764
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M07,2024,Jul,01.07.2024,Jul'24,98.04606
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M08,2024,Aug,01.08.2024,Aug'24,98.11295
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M09,2024,Sep,01.09.2024,Sep'24,98.28463
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M10,2024,Oct,01.10.2024,Oct'24,98.45936
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M11,2024,Nov,01.11.2024,Nov'24,98.59915
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M12,2024,Dec,01.12.2024,Dec'24,98.59934
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M01,2025,Jan,01.01.2025,Jan'25,98.29266
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M02,2025,Feb,01.02.2025,Feb'25,97.6925
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M03,2025,Mar,01.03.2025,Mar'25,97.04506
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M04,2025,Apr,01.04.2025,Apr'25,96.65481
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M05,2025,May,01.05.2025,May'25,96.67971
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M06,2025,Jun,01.06.2025,Jun'25,96.99023
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M07,2025,Jul,01.07.2025,Jul'25,97.14446
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M08,2025,Aug,01.08.2025,Aug'25,97.0183
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M09,2025,Sep,01.09.2025,Sep'25,96.7619
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M10,2025,Oct,01.10.2025,Oct'25,96.53851
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M11,2025,Nov,01.11.2025,Nov'25,96.43772
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M12,2025,Dec,01.12.2025,Dec'25,96.53291
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M01,2026,Jan,01.01.2026,Jan'26,96.6942
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M02,2026,Feb,01.02.2026,Feb'26,96.70363
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M03,2026,Mar,01.03.2026,Mar'26,96.48118
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M04,2026,Apr,01.04.2026,Apr'26,96.09748
-USA,United States,USA.M.CCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M05,2026,May,01.05.2026,May'26,95.63106
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M01,2015,Jan,01.01.2015,Jan'15,100.8918
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M02,2015,Feb,01.02.2015,Feb'15,100.8094
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M03,2015,Mar,01.03.2015,Mar'15,100.752
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M04,2015,Apr,01.04.2015,Apr'15,100.7059
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M05,2015,May,01.05.2015,May'15,100.6503
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M06,2015,Jun,01.06.2015,Jun'15,100.5701
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M07,2015,Jul,01.07.2015,Jul'15,100.4735
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M08,2015,Aug,01.08.2015,Aug'15,100.3738
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M09,2015,Sep,01.09.2015,Sep'15,100.2887
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M10,2015,Oct,01.10.2015,Oct'15,100.2193
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M11,2015,Nov,01.11.2015,Nov'15,100.1566
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M12,2015,Dec,01.12.2015,Dec'15,100.088
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M01,2016,Jan,01.01.2016,Jan'16,100.0013
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M02,2016,Feb,01.02.2016,Feb'16,99.90456
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M03,2016,Mar,01.03.2016,Mar'16,99.81085
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M04,2016,Apr,01.04.2016,Apr'16,99.72943
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M05,2016,May,01.05.2016,May'16,99.66669
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M06,2016,Jun,01.06.2016,Jun'16,99.62518
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M07,2016,Jul,01.07.2016,Jul'16,99.60665
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M08,2016,Aug,01.08.2016,Aug'16,99.61437
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M09,2016,Sep,01.09.2016,Sep'16,99.63714
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M10,2016,Oct,01.10.2016,Oct'16,99.66154
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M11,2016,Nov,01.11.2016,Nov'16,99.67569
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M12,2016,Dec,01.12.2016,Dec'16,99.67368
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M01,2017,Jan,01.01.2017,Jan'17,99.64135
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M02,2017,Feb,01.02.2017,Feb'17,99.56827
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M03,2017,Mar,01.03.2017,Mar'17,99.48396
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M04,2017,Apr,01.04.2017,Apr'17,99.4324
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M05,2017,May,01.05.2017,May'17,99.45257
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M06,2017,Jun,01.06.2017,Jun'17,99.55048
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M07,2017,Jul,01.07.2017,Jul'17,99.71601
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M08,2017,Aug,01.08.2017,Aug'17,99.92039
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M09,2017,Sep,01.09.2017,Sep'17,100.134
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M10,2017,Oct,01.10.2017,Oct'17,100.3333
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M11,2017,Nov,01.11.2017,Nov'17,100.4934
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M12,2017,Dec,01.12.2017,Dec'17,100.5952
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M01,2018,Jan,01.01.2018,Jan'18,100.6452
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M02,2018,Feb,01.02.2018,Feb'18,100.6385
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M03,2018,Mar,01.03.2018,Mar'18,100.5851
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M04,2018,Apr,01.04.2018,Apr'18,100.5072
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M05,2018,May,01.05.2018,May'18,100.4318
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M06,2018,Jun,01.06.2018,Jun'18,100.3547
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M07,2018,Jul,01.07.2018,Jul'18,100.2659
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M08,2018,Aug,01.08.2018,Aug'18,100.1619
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M09,2018,Sep,01.09.2018,Sep'18,100.0447
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M10,2018,Oct,01.10.2018,Oct'18,99.91779
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M11,2018,Nov,01.11.2018,Nov'18,99.79001
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M12,2018,Dec,01.12.2018,Dec'18,99.67052
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M01,2019,Jan,01.01.2019,Jan'19,99.57115
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M02,2019,Feb,01.02.2019,Feb'19,99.49225
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M03,2019,Mar,01.03.2019,Mar'19,99.42816
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M04,2019,Apr,01.04.2019,Apr'19,99.37006
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M05,2019,May,01.05.2019,May'19,99.31413
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M06,2019,Jun,01.06.2019,Jun'19,99.26479
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M07,2019,Jul,01.07.2019,Jul'19,99.21928
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M08,2019,Aug,01.08.2019,Aug'19,99.18171
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M09,2019,Sep,01.09.2019,Sep'19,99.15277
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M10,2019,Oct,01.10.2019,Oct'19,99.11156
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M11,2019,Nov,01.11.2019,Nov'19,99.03904
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M12,2019,Dec,01.12.2019,Dec'19,98.93063
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M01,2020,Jan,01.01.2020,Jan'20,98.79584
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M02,2020,Feb,01.02.2020,Feb'20,98.66485
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M03,2020,Mar,01.03.2020,Mar'20,96.05288
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M04,2020,Apr,01.04.2020,Apr'20,91.77089
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M05,2020,May,01.05.2020,May'20,92.78311
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M06,2020,Jun,01.06.2020,Jun'20,95.54648
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M07,2020,Jul,01.07.2020,Jul'20,96.7591
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M08,2020,Aug,01.08.2020,Aug'20,98.34419
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M09,2020,Sep,01.09.2020,Sep'20,98.68585
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M10,2020,Oct,01.10.2020,Oct'20,99.07326
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M11,2020,Nov,01.11.2020,Nov'20,99.48496
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M12,2020,Dec,01.12.2020,Dec'20,99.74346
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M01,2021,Jan,01.01.2021,Jan'21,100.0148
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M02,2021,Feb,01.02.2021,Feb'21,100.3161
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M03,2021,Mar,01.03.2021,Mar'21,100.6356
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M04,2021,Apr,01.04.2021,Apr'21,100.9261
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M05,2021,May,01.05.2021,May'21,101.1379
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M06,2021,Jun,01.06.2021,Jun'21,101.2503
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M07,2021,Jul,01.07.2021,Jul'21,101.3034
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M08,2021,Aug,01.08.2021,Aug'21,101.3517
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M09,2021,Sep,01.09.2021,Sep'21,101.4043
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M10,2021,Oct,01.10.2021,Oct'21,101.4712
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M11,2021,Nov,01.11.2021,Nov'21,101.549
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M12,2021,Dec,01.12.2021,Dec'21,101.6138
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M01,2022,Jan,01.01.2022,Jan'22,101.6427
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M02,2022,Feb,01.02.2022,Feb'22,101.6077
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M03,2022,Mar,01.03.2022,Mar'22,101.5039
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M04,2022,Apr,01.04.2022,Apr'22,101.3547
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M05,2022,May,01.05.2022,May'22,101.1951
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M06,2022,Jun,01.06.2022,Jun'22,101.053
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M07,2022,Jul,01.07.2022,Jul'22,100.9347
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M08,2022,Aug,01.08.2022,Aug'22,100.8341
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M09,2022,Sep,01.09.2022,Sep'22,100.7488
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M10,2022,Oct,01.10.2022,Oct'22,100.6776
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M11,2022,Nov,01.11.2022,Nov'22,100.6105
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M12,2022,Dec,01.12.2022,Dec'22,100.5135
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M01,2023,Jan,01.01.2023,Jan'23,100.3696
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M02,2023,Feb,01.02.2023,Feb'23,100.1744
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M03,2023,Mar,01.03.2023,Mar'23,99.93661
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M04,2023,Apr,01.04.2023,Apr'23,99.69192
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M05,2023,May,01.05.2023,May'23,99.4716
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M06,2023,Jun,01.06.2023,Jun'23,99.29647
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M07,2023,Jul,01.07.2023,Jul'23,99.16648
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M08,2023,Aug,01.08.2023,Aug'23,99.07343
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M09,2023,Sep,01.09.2023,Sep'23,99.00314
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M10,2023,Oct,01.10.2023,Oct'23,98.9438
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M11,2023,Nov,01.11.2023,Nov'23,98.88864
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2023M12,2023,Dec,01.12.2023,Dec'23,98.83025
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M01,2024,Jan,01.01.2024,Jan'24,98.77163
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M02,2024,Feb,01.02.2024,Feb'24,98.73598
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M03,2024,Mar,01.03.2024,Mar'24,98.73692
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M04,2024,Apr,01.04.2024,Apr'24,98.77714
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M05,2024,May,01.05.2024,May'24,98.85205
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M06,2024,Jun,01.06.2024,Jun'24,98.96219
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M07,2024,Jul,01.07.2024,Jul'24,99.10765
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M08,2024,Aug,01.08.2024,Aug'24,99.28334
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M09,2024,Sep,01.09.2024,Sep'24,99.48309
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M10,2024,Oct,01.10.2024,Oct'24,99.68841
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M11,2024,Nov,01.11.2024,Nov'24,99.857
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2024M12,2024,Dec,01.12.2024,Dec'24,99.96403
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M01,2025,Jan,01.01.2025,Jan'25,100.0222
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M02,2025,Feb,01.02.2025,Feb'25,100.0393
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M03,2025,Mar,01.03.2025,Mar'25,100.0328
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M04,2025,Apr,01.04.2025,Apr'25,100.0354
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M05,2025,May,01.05.2025,May'25,100.07
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M06,2025,Jun,01.06.2025,Jun'25,100.1517
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M07,2025,Jul,01.07.2025,Jul'25,100.2801
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M08,2025,Aug,01.08.2025,Aug'25,100.4305
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M09,2025,Sep,01.09.2025,Sep'25,100.57
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M10,2025,Oct,01.10.2025,Oct'25,100.6782
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M11,2025,Nov,01.11.2025,Nov'25,100.7381
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2025M12,2025,Dec,01.12.2025,Dec'25,100.7483
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M01,2026,Jan,01.01.2026,Jan'26,100.7174
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M02,2026,Feb,01.02.2026,Feb'26,100.6602
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M03,2026,Mar,01.03.2026,Mar'26,100.5819
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M04,2026,Apr,01.04.2026,Apr'26,100.4832
-ZAF,South Africa,ZAF.M.LI.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2026M05,2026,May,01.05.2026,May'26,100.3742
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M01,2015,Jan,01.01.2015,Jan'15,100.6165
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M02,2015,Feb,01.02.2015,Feb'15,100.4111
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M03,2015,Mar,01.03.2015,Mar'15,100.4472
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M04,2015,Apr,01.04.2015,Apr'15,100.632
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M05,2015,May,01.05.2015,May'15,100.6666
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M06,2015,Jun,01.06.2015,Jun'15,100.5831
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M07,2015,Jul,01.07.2015,Jul'15,100.6173
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M08,2015,Aug,01.08.2015,Aug'15,100.89
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M09,2015,Sep,01.09.2015,Sep'15,100.9429
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M10,2015,Oct,01.10.2015,Oct'15,100.8175
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M11,2015,Nov,01.11.2015,Nov'15,100.5734
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2015M12,2015,Dec,01.12.2015,Dec'15,100.0876
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M01,2016,Jan,01.01.2016,Jan'16,99.60794
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M02,2016,Feb,01.02.2016,Feb'16,99.44038
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M03,2016,Mar,01.03.2016,Mar'16,99.94994
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M04,2016,Apr,01.04.2016,Apr'16,100.448
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M05,2016,May,01.05.2016,May'16,100.5805
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M06,2016,Jun,01.06.2016,Jun'16,100.5696
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M07,2016,Jul,01.07.2016,Jul'16,100.7531
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M08,2016,Aug,01.08.2016,Aug'16,100.9713
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M09,2016,Sep,01.09.2016,Sep'16,101.1555
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M10,2016,Oct,01.10.2016,Oct'16,101.1416
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M11,2016,Nov,01.11.2016,Nov'16,101.0017
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2016M12,2016,Dec,01.12.2016,Dec'16,100.9804
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M01,2017,Jan,01.01.2017,Jan'17,101.0293
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M02,2017,Feb,01.02.2017,Feb'17,100.7607
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M03,2017,Mar,01.03.2017,Mar'17,100.4899
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M04,2017,Apr,01.04.2017,Apr'17,100.4333
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M05,2017,May,01.05.2017,May'17,100.6451
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M06,2017,Jun,01.06.2017,Jun'17,100.8607
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M07,2017,Jul,01.07.2017,Jul'17,100.7411
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M08,2017,Aug,01.08.2017,Aug'17,100.8146
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M09,2017,Sep,01.09.2017,Sep'17,101.0954
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M10,2017,Oct,01.10.2017,Oct'17,101.466
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M11,2017,Nov,01.11.2017,Nov'17,101.7987
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2017M12,2017,Dec,01.12.2017,Dec'17,101.6129
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M01,2018,Jan,01.01.2018,Jan'18,101.2653
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M02,2018,Feb,01.02.2018,Feb'18,101.0881
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M03,2018,Mar,01.03.2018,Mar'18,101.306
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M04,2018,Apr,01.04.2018,Apr'18,101.5477
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M05,2018,May,01.05.2018,May'18,101.5741
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M06,2018,Jun,01.06.2018,Jun'18,101.4302
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M07,2018,Jul,01.07.2018,Jul'18,101.3983
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M08,2018,Aug,01.08.2018,Aug'18,101.2472
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M09,2018,Sep,01.09.2018,Sep'18,101.0758
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M10,2018,Oct,01.10.2018,Oct'18,101.0582
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M11,2018,Nov,01.11.2018,Nov'18,101.1089
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2018M12,2018,Dec,01.12.2018,Dec'18,101.3573
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M01,2019,Jan,01.01.2019,Jan'19,101.4481
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M02,2019,Feb,01.02.2019,Feb'19,101.3474
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M03,2019,Mar,01.03.2019,Mar'19,101.3153
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M04,2019,Apr,01.04.2019,Apr'19,101.3844
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M05,2019,May,01.05.2019,May'19,101.1299
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M06,2019,Jun,01.06.2019,Jun'19,100.8064
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M07,2019,Jul,01.07.2019,Jul'19,100.7398
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M08,2019,Aug,01.08.2019,Aug'19,100.8059
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M09,2019,Sep,01.09.2019,Sep'19,100.9009
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M10,2019,Oct,01.10.2019,Oct'19,100.8272
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M11,2019,Nov,01.11.2019,Nov'19,100.6882
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2019M12,2019,Dec,01.12.2019,Dec'19,100.4218
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M01,2020,Jan,01.01.2020,Jan'20,100.043
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M02,2020,Feb,01.02.2020,Feb'20,99.47444
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M03,2020,Mar,01.03.2020,Mar'20,98.69977
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M04,2020,Apr,01.04.2020,Apr'20,98.12878
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M05,2020,May,01.05.2020,May'20,98.67744
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M06,2020,Jun,01.06.2020,Jun'20,99.61395
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M07,2020,Jul,01.07.2020,Jul'20,100.5054
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M08,2020,Aug,01.08.2020,Aug'20,101.1159
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M09,2020,Sep,01.09.2020,Sep'20,101.4132
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M10,2020,Oct,01.10.2020,Oct'20,101.7102
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M11,2020,Nov,01.11.2020,Nov'20,102.0328
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2020M12,2020,Dec,01.12.2020,Dec'20,102.0786
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M01,2021,Jan,01.01.2021,Jan'21,102.2527
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M02,2021,Feb,01.02.2021,Feb'21,102.5147
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M03,2021,Mar,01.03.2021,Mar'21,102.7166
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M04,2021,Apr,01.04.2021,Apr'21,102.9686
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M05,2021,May,01.05.2021,May'21,103.4227
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M06,2021,Jun,01.06.2021,Jun'21,103.8481
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M07,2021,Jul,01.07.2021,Jul'21,104.0959
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M08,2021,Aug,01.08.2021,Aug'21,104.3184
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M09,2021,Sep,01.09.2021,Sep'21,104.3797
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M10,2021,Oct,01.10.2021,Oct'21,104.392
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M11,2021,Nov,01.11.2021,Nov'21,104.1813
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2021M12,2021,Dec,01.12.2021,Dec'21,104.0602
+RUS,Russia,RUS.M.BCICP.IX._Z.AA.IX._Z.H,OECD Composite Leading Indicator (CLI),2022M01,2022,Jan,01.01.2022,Jan'22,104.1003
 BEL,Belgium,M.BS-CCI-BAL.NSA.BE,Economic Sentiment Indicator (ESI),2015M01,2015,Jan,01.01.2015,Jan'15,-25.9
 BEL,Belgium,M.BS-CCI-BAL.NSA.BE,Economic Sentiment Indicator (ESI),2015M02,2015,Feb,01.02.2015,Feb'15,-24.7
 BEL,Belgium,M.BS-CCI-BAL.NSA.BE,Economic Sentiment Indicator (ESI),2015M03,2015,Mar,01.03.2015,Mar'15,-20.1
