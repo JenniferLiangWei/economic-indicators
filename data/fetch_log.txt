@@ -1,15 +1,11 @@
-Run started 2026-09-25T10:23:56.423505Z
+Run started 2026-09-26T10:03:46.818266Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 305 rows
 [WorldBank] Lending interest rate (%): 305 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
-  WB retry 1 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
-  WB retry 1 NV.IND.MANF.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 NV.IND.MANF.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
 [WorldBank] Gross capital formation (% of GDP): 690 rows
