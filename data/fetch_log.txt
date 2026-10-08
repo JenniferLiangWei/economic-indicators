@@ -1,6 +1,7 @@
-Run started 2026-10-07T11:54:52.328913Z
+Run started 2026-10-08T12:09:57.673584Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
+  WB retry 1 FR.INR.RINR: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Real interest rate (%): 305 rows
 [WorldBank] Lending interest rate (%): 305 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
