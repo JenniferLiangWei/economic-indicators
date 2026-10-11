@@ -1,5 +1,4 @@
-Run started 2026-10-10T11:17:42.921112Z
-  WB retry 1 NY.GDP.MKTP.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+Run started 2026-10-11T11:31:02.831502Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 306 rows
@@ -9,6 +8,7 @@ Run started 2026-10-10T11:17:42.921112Z
 [WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
+  WB retry 1 NE.GDI.TOTL.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Gross capital formation (% of GDP): 690 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 628 rows
 [WorldBank] Logistics Performance Index, overall: 185 rows
