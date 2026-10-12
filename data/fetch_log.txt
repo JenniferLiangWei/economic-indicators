@@ -1,4 +1,4 @@
-Run started 2026-10-11T11:31:02.831502Z
+Run started 2026-10-12T13:23:20.012003Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 306 rows
@@ -8,9 +8,9 @@ Run started 2026-10-11T11:31:02.831502Z
 [WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
-  WB retry 1 NE.GDI.TOTL.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Gross capital formation (% of GDP): 690 rows
 [WorldBank] Domestic credit to private sector (% of GDP): 628 rows
+  WB retry 1 LP.LPI.OVRL.XQ: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Logistics Performance Index, overall: 185 rows
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
 [DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
