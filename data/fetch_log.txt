@@ -1,13 +1,10 @@
-Run started 2026-10-13T12:51:57.592337Z
+Run started 2026-10-14T10:26:17.289398Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 306 rows
 [WorldBank] Lending interest rate (%): 306 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
-  WB retry 1 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 2 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-  WB retry 3 NE.EXP.GNFS.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
-[WorldBank] Exports of goods and services (% of GDP): 0 rows
+[WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
@@ -35,4 +32,4 @@ Run started 2026-10-13T12:51:57.592337Z
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 4060 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6897 rows
-DONE  annual=10711 rows  periodic=62009 rows
+DONE  annual=11404 rows  periodic=62009 rows
