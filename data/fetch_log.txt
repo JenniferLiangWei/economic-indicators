@@ -1,5 +1,4 @@
-Run started 2026-10-19T11:03:36.438875Z
-  WB retry 1 NY.GDP.MKTP.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+Run started 2026-10-20T10:17:06.871068Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 306 rows
