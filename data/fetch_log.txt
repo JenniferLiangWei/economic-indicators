@@ -1,11 +1,11 @@
-Run started 2026-10-31T11:02:06.772152Z
-  WB retry 1 NY.GDP.MKTP.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
+Run started 2026-11-01T11:56:47.394483Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 306 rows
 [WorldBank] Lending interest rate (%): 306 rows
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
+  WB retry 1 SP.URB.TOTL.IN.ZS: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Urban population (% of total): 704 rows
 [WorldBank] Manufacturing, value added (annual % growth): 630 rows
 [WorldBank] Manufacturing, value added (% of GDP): 674 rows
@@ -19,7 +19,7 @@ Run started 2026-10-31T11:02:06.772152Z
 [DBnomics] OECD Composite Leading Indicator (CLI) (OECD/DSD_STES@DF_CLI): 4203 rows, 31 countries, latest 2026M05
 [DBnomics] Economic Sentiment Indicator (ESI) (Eurostat/ei_bssi_m_r2): 2903 rows, 22 countries, latest 2025M12
 [DBnomics] ISM Manufacturing PMI (US) (ISM/pmi): 68 rows, 1 countries, latest 2025M12
-[DBnomics] ECB main refinancing rate (ECB/FM): 131 rows, 1 countries, latest 2026M10
+[DBnomics] ECB main refinancing rate (ECB/FM): 132 rows, 1 countries, latest 2026M11
 [DBnomics] Real GDP growth (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [DBnomics] Inflation, avg consumer prices (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
@@ -33,4 +33,4 @@ Run started 2026-10-31T11:02:06.772152Z
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 4060 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6897 rows
-DONE  annual=11404 rows  periodic=62009 rows
+DONE  annual=11404 rows  periodic=62010 rows
