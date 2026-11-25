@@ -1,4 +1,4 @@
-Run started 2026-11-24T16:07:37.546934Z
+Run started 2026-11-25T15:54:10.399595Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 306 rows
@@ -12,18 +12,18 @@ Run started 2026-11-24T16:07:37.546934Z
 [WorldBank] Domestic credit to private sector (% of GDP): 628 rows
 [WorldBank] Logistics Performance Index, overall: 185 rows
 [DBnomics] Building permits (m2 floor area, SA) (Eurostat/sts_cobp_m): 1432 rows, 11 countries, latest 2025M12
-[DBnomics] Construction production index (Eurostat/sts_copr_m) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/Eurostat/sts_copr_m
-[DBnomics] Construction confidence indicator (Eurostat/ei_bsco_m) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/Eurostat/ei_bsco_m
-[DBnomics] House price index (Eurostat/prc_hpi_q) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/Eurostat/prc_hpi_q
-[DBnomics] OECD Composite Leading Indicator (CLI) (OECD/DSD_STES@DF_CLI) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/OECD
-[DBnomics] Economic Sentiment Indicator (ESI) (Eurostat/ei_bssi_m_r2) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/Eurostat/ei_bssi_m_r2
-[DBnomics] ISM Manufacturing PMI (US) (ISM/pmi) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/ISM/pmi
-[DBnomics] ECB main refinancing rate (ECB/FM) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/ECB/FM
-[DBnomics] Real GDP growth (IMF WEO) (IMF/WEO:latest) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/IMF/WEO:latest
-[DBnomics] Inflation, avg consumer prices (IMF WEO) (IMF/WEO:latest) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/IMF/WEO:latest
-[DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/IMF/WEO:latest
-[DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/IMF/WEO:latest
-[DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest) ERROR: HTTPSConnectionPool(host='api.db.nomics.world', port=443): Read timed out. (read timeout=45) -> https://db.nomics.world/IMF/WEO:latest
+[DBnomics] Construction production index (Eurostat/sts_copr_m): 2295 rows, 18 countries, latest 2025M11
+[DBnomics] Construction confidence indicator (Eurostat/ei_bsco_m): 2903 rows, 22 countries, latest 2025M12
+[DBnomics] House price index (Eurostat/prc_hpi_q): 923 rows, 22 countries, latest 2025M09
+[DBnomics] OECD Composite Leading Indicator (CLI) (OECD/DSD_STES@DF_CLI): 4203 rows, 31 countries, latest 2026M05
+[DBnomics] Economic Sentiment Indicator (ESI) (Eurostat/ei_bssi_m_r2): 2903 rows, 22 countries, latest 2025M12
+[DBnomics] ISM Manufacturing PMI (US) (ISM/pmi): 68 rows, 1 countries, latest 2025M12
+[DBnomics] ECB main refinancing rate (ECB/FM): 132 rows, 1 countries, latest 2026M11
+[DBnomics] Real GDP growth (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Inflation, avg consumer prices (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Government gross debt (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Current account balance (% of GDP, IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
+[DBnomics] Unemployment rate (IMF WEO) (IMF/WEO:latest): 896 rows, 56 countries, latest 2030M12
 [WorldBank GEM] CPI inflation, % YoY: 6961 rows
 [WorldBank GEM] Industrial Production Index: 6323 rows
 [WorldBank GEM] Merchandise Exports (USD, NSA): 7594 rows
@@ -32,4 +32,4 @@ Run started 2026-11-24T16:07:37.546934Z
 [WorldBank GEM] Real Effective Exchange Rate Index: 4780 rows
 [WorldBank GEM] Terms of Trade Index: 4060 rows
 [WorldBank GEM] Total International Reserves (USD millions): 6897 rows
-DONE  annual=6924 rows  periodic=48583 rows
+DONE  annual=11404 rows  periodic=62010 rows
