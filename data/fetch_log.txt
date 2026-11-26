@@ -1,8 +1,9 @@
-Run started 2026-11-25T15:54:10.399595Z
+Run started 2026-11-26T15:34:57.645041Z
 [WorldBank] GDP growth (annual %): 703 rows
 [WorldBank] Inflation, consumer prices (annual %): 702 rows
 [WorldBank] Real interest rate (%): 306 rows
 [WorldBank] Lending interest rate (%): 306 rows
+  WB retry 1 NY.GDP.DEFL.KD.ZG: HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)
 [WorldBank] Inflation, GDP deflator (annual %): 703 rows
 [WorldBank] Exports of goods and services (% of GDP): 693 rows
 [WorldBank] Urban population (% of total): 704 rows
